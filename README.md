@@ -69,9 +69,7 @@ The working application includes four main pages:
 - **Forecast:** Glucose predictions and what-if simulations.
 - **Reports:** Model performance information and printable reports.
 
-**Demo video (minimum 20 minutes):** [Add recording link]
-
-The demonstration will explain the problem, architecture, datasets, model, working prototype, results, limitations, and future scope.
+**Demo video :** https://drive.google.com/file/d/1aKmmMWaK-BCpbRRBTMkZ8z4_xOF3VcPt/view?usp=drive_link
 
 ## 9. Architecture Diagram
 
@@ -82,6 +80,17 @@ The demonstration will explain the problem, architecture, datasets, model, worki
 
 **Project presentation (PDF/PPT):** https://drive.google.com/file/d/1dqbRJVWgU6O8B3BTWAMk_R39psYoxmfZ/view?usp=drive_link
 
+## 11. Open-Source Resources
+
+Drishti Health is developed using open-source technologies and draws on publicly available resources for healthcare data research and machine learning.
+
+- **[Synthea](https://github.com/synthetichealth/synthea)** – Open-source synthetic patient data generator for exploring realistic healthcare records.
+- **[Synthea Sample Data](https://github.com/synthetichealth/synthea-sample-data)** – Sample synthetic healthcare records.
+- **[Scikit-learn](https://scikit-learn.org/stable/)** – Machine-learning library used for model development.
+- **[Flask](https://flask.palletsprojects.com/)** – Python web framework for backend API development.
+- **[MIMIC-IV](https://physionet.org/content/mimiciv/)** – Clinical research dataset requiring approved access.
+
+**Data note:** Drishti Health's current proof of concept uses its own synthetic datasets and simulated sensor readings. The resources above are references for development and potential future expansion; they should not be interpreted as datasets used to train the current model unless explicitly incorporated into the project.
 
 ## Limitations
 
