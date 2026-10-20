@@ -1,0 +1,151 @@
+patient_id,age_years,sex,height_cm,weight_kg,bmi,diabetes_status,diagnosis,diagnosis_date,diabetes_duration_years,hba1c_baseline_percent,baseline_fasting_glucose_mg_dl,hypertension_status,dyslipidemia_status,smoking_status,activity_level,usual_sleep_hours,baseline_risk_category,synthetic_data_flag
+P0001,61,male,178.3,108.8,34.2,type_2_diabetes,Type 2 diabetes,2019-11-12,6.1,5.8,80,yes,yes,never,high,7.1,moderate,true
+P0002,70,female,164.0,70.3,26.1,type_2_diabetes,Type 2 diabetes,2015-12-23,10.0,8.1,125,no,yes,current,high,6.7,high,true
+P0003,54,female,163.4,85.1,31.9,type_2_diabetes,Type 2 diabetes,2021-11-28,4.1,8.2,169,yes,yes,never,low,6.3,high,true
+P0004,48,female,165.2,91.0,33.3,type_2_diabetes,Type 2 diabetes,2019-05-25,6.6,8.3,132,yes,no,never,low,7.1,high,true
+P0005,61,male,162.8,75.7,28.6,type_2_diabetes,Type 2 diabetes,2021-06-16,4.5,7.2,113,no,yes,never,moderate,7.1,low,true
+P0006,64,male,178.0,106.4,33.6,type_2_diabetes,Type 2 diabetes,2016-02-06,9.9,7.3,118,no,yes,never,low,7.1,moderate,true
+P0007,65,female,162.0,86.1,32.8,type_2_diabetes,Type 2 diabetes,2022-09-14,3.3,7.3,131,yes,no,never,low,7.0,high,true
+P0008,63,male,176.1,102.3,33.0,type_2_diabetes,Type 2 diabetes,2020-09-21,5.3,7.6,123,yes,yes,current,high,6.3,high,true
+P0009,53,male,170.5,96.9,33.3,type_2_diabetes,Type 2 diabetes,2023-06-19,2.5,6.6,110,no,yes,never,moderate,6.5,low,true
+P0010,42,male,173.5,83.1,27.6,type_2_diabetes,Type 2 diabetes,2010-12-09,15.1,8.0,136,yes,yes,never,moderate,7.7,high,true
+P0011,61,male,164.7,73.6,27.1,type_2_diabetes,Type 2 diabetes,2024-05-12,1.6,6.6,107,yes,no,never,moderate,7.7,low,true
+P0012,79,female,179.9,103.1,31.9,type_2_diabetes,Type 2 diabetes,2019-03-27,6.8,6.6,82,no,yes,never,high,7.1,moderate,true
+P0013,56,female,150.1,62.7,27.8,type_2_diabetes,Type 2 diabetes,2019-11-08,6.1,7.6,155,no,yes,never,moderate,8.7,low,true
+P0014,48,male,178.9,83.0,25.9,type_2_diabetes,Type 2 diabetes,2021-01-08,5.0,8.8,155,no,yes,never,moderate,6.0,moderate,true
+P0015,59,female,162.0,77.3,29.5,type_2_diabetes,Type 2 diabetes,2019-06-16,6.5,8.0,155,yes,yes,former,low,6.0,high,true
+P0016,42,male,184.6,128.7,37.8,type_2_diabetes,Type 2 diabetes,2012-01-09,14.0,7.5,122,yes,yes,former,high,7.0,high,true
+P0017,56,male,182.9,101.7,30.4,type_2_diabetes,Type 2 diabetes,2020-08-07,5.4,8.4,115,no,yes,former,moderate,5.9,moderate,true
+P0018,58,female,157.9,71.1,28.5,type_2_diabetes,Type 2 diabetes,2012-12-09,13.1,8.9,158,no,yes,never,moderate,6.1,moderate,true
+P0019,58,male,190.6,139.7,38.5,type_2_diabetes,Type 2 diabetes,2024-07-07,1.5,6.7,110,yes,yes,former,moderate,5.3,moderate,true
+P0020,56,female,154.1,65.6,27.6,type_2_diabetes,Type 2 diabetes,2024-12-16,1.0,6.7,112,yes,yes,former,high,9.0,low,true
+P0021,45,female,163.2,100.6,37.8,type_2_diabetes,Type 2 diabetes,2016-07-29,9.4,6.6,108,yes,yes,never,low,6.8,moderate,true
+P0022,60,male,169.1,91.9,32.1,type_2_diabetes,Type 2 diabetes,2018-11-01,7.2,8.9,153,no,no,never,low,9.0,moderate,true
+P0023,81,male,175.7,82.0,26.6,type_2_diabetes,Type 2 diabetes,2019-04-04,6.7,6.4,126,yes,no,current,high,6.6,moderate,true
+P0024,60,male,173.4,86.2,28.7,type_2_diabetes,Type 2 diabetes,2019-10-03,6.2,7.6,125,no,yes,former,low,6.7,moderate,true
+P0025,38,female,172.2,68.5,23.1,type_2_diabetes,Type 2 diabetes,2020-08-26,5.3,8.7,143,yes,no,current,moderate,7.9,moderate,true
+P0026,62,female,172.3,94.9,32.0,type_2_diabetes,Type 2 diabetes,2020-02-16,5.9,8.7,143,no,yes,former,high,7.1,moderate,true
+P0027,70,male,185.7,114.8,33.3,type_2_diabetes,Type 2 diabetes,2023-12-19,2.0,5.9,99,no,no,former,high,7.0,low,true
+P0028,44,female,156.6,77.0,31.4,type_2_diabetes,Type 2 diabetes,2025-07-10,0.5,9.0,162,no,no,never,moderate,6.5,moderate,true
+P0029,64,male,183.3,106.4,31.7,type_2_diabetes,Type 2 diabetes,2016-05-12,9.6,8.7,139,no,no,never,low,6.9,moderate,true
+P0030,56,female,163.5,92.2,34.5,type_2_diabetes,Type 2 diabetes,2011-11-15,14.1,6.5,108,no,no,never,low,8.1,moderate,true
+P0031,67,male,176.9,126.7,40.5,type_2_diabetes,Type 2 diabetes,2010-12-02,15.1,7.5,99,yes,yes,former,low,5.7,high,true
+P0032,49,male,176.1,100.3,32.3,type_2_diabetes,Type 2 diabetes,2022-02-14,3.9,8.0,117,yes,no,former,moderate,7.6,moderate,true
+P0033,60,male,168.1,82.5,29.2,type_2_diabetes,Type 2 diabetes,2021-11-13,4.1,7.9,146,yes,yes,never,moderate,6.0,moderate,true
+P0034,41,female,145.8,57.3,27.0,type_2_diabetes,Type 2 diabetes,2019-07-21,6.5,8.6,142,no,yes,never,low,6.9,moderate,true
+P0035,72,male,167.1,76.3,27.3,type_2_diabetes,Type 2 diabetes,2021-09-30,4.3,6.0,90,no,no,never,moderate,7.4,low,true
+P0036,56,male,160.2,87.7,34.2,type_2_diabetes,Type 2 diabetes,2023-09-29,2.3,7.0,112,no,no,never,low,8.1,moderate,true
+P0037,54,female,167.9,80.4,28.5,type_2_diabetes,Type 2 diabetes,2020-12-03,5.1,9.0,158,no,yes,never,low,7.9,moderate,true
+P0038,48,male,175.3,91.8,29.9,type_2_diabetes,Type 2 diabetes,2024-09-19,1.3,8.1,125,yes,yes,never,moderate,7.9,moderate,true
+P0039,47,female,158.4,72.1,28.7,type_2_diabetes,Type 2 diabetes,2021-09-06,4.3,7.9,143,no,no,never,moderate,8.1,low,true
+P0040,59,male,177.1,93.3,29.7,type_2_diabetes,Type 2 diabetes,2018-06-13,7.6,7.5,117,no,yes,never,high,7.3,low,true
+P0041,54,male,170.8,99.8,34.2,type_2_diabetes,Type 2 diabetes,2025-03-29,0.8,5.8,94,yes,yes,never,low,4.6,moderate,true
+P0042,52,female,176.7,99.8,32.0,type_2_diabetes,Type 2 diabetes,2024-09-03,1.3,7.1,126,no,yes,never,moderate,7.5,moderate,true
+P0043,50,female,171.6,75.5,25.6,type_2_diabetes,Type 2 diabetes,2021-02-24,4.9,6.7,132,no,yes,former,moderate,8.3,low,true
+P0044,54,male,166.4,77.5,28.0,type_2_diabetes,Type 2 diabetes,2017-05-13,8.6,8.2,118,no,yes,never,low,6.3,moderate,true
+P0045,60,male,171.2,85.8,29.3,type_2_diabetes,Type 2 diabetes,2016-12-23,9.0,7.9,121,no,yes,former,high,6.9,low,true
+P0046,54,male,167.7,71.3,25.4,type_2_diabetes,Type 2 diabetes,2020-09-08,5.3,6.3,94,no,yes,never,low,6.9,low,true
+P0047,50,male,174.3,71.3,23.5,type_2_diabetes,Type 2 diabetes,2023-05-05,2.7,7.6,133,no,no,never,moderate,7.3,low,true
+P0048,31,female,153.5,67.6,28.7,type_2_diabetes,Type 2 diabetes,2007-07-31,18.4,6.5,120,no,no,current,high,7.2,low,true
+P0049,78,male,170.0,65.2,22.6,type_2_diabetes,Type 2 diabetes,2022-04-12,3.7,6.2,100,yes,no,never,moderate,8.0,low,true
+P0050,51,male,168.5,92.1,32.4,type_2_diabetes,Type 2 diabetes,2024-11-10,1.1,8.6,152,yes,no,former,moderate,6.4,moderate,true
+P0051,43,female,162.6,72.0,27.2,type_2_diabetes,Type 2 diabetes,2020-04-09,5.7,9.4,153,no,yes,never,high,8.1,moderate,true
+P0052,46,male,156.1,90.8,37.3,type_2_diabetes,Type 2 diabetes,2025-03-07,0.8,10.6,175,yes,no,never,low,7.4,high,true
+P0053,41,female,174.3,93.5,30.8,type_2_diabetes,Type 2 diabetes,2017-06-26,8.5,7.3,122,no,yes,never,high,8.5,moderate,true
+P0054,56,male,184.7,85.4,25.0,type_2_diabetes,Type 2 diabetes,2023-04-07,2.7,8.4,147,yes,yes,current,moderate,6.3,high,true
+P0055,54,female,149.9,51.1,22.7,type_2_diabetes,Type 2 diabetes,2025-09-14,0.3,8.3,133,no,yes,never,low,7.3,moderate,true
+P0056,84,male,175.9,98.2,31.7,type_2_diabetes,Type 2 diabetes,2017-06-06,8.6,7.5,139,no,no,current,moderate,6.6,moderate,true
+P0057,66,female,158.0,70.1,28.1,type_2_diabetes,Type 2 diabetes,2015-07-11,10.5,8.1,134,yes,yes,never,low,6.3,high,true
+P0058,55,female,168.2,81.8,28.9,type_2_diabetes,Type 2 diabetes,2014-11-28,11.1,6.5,110,yes,yes,never,moderate,7.0,moderate,true
+P0059,65,female,160.9,75.2,29.0,type_2_diabetes,Type 2 diabetes,2017-02-04,8.9,6.3,85,no,yes,never,low,5.8,moderate,true
+P0060,47,male,183.2,105.0,31.3,type_2_diabetes,Type 2 diabetes,2023-11-08,2.1,8.6,130,yes,yes,never,high,7.1,high,true
+P0061,66,male,161.7,52.0,19.9,type_2_diabetes,Type 2 diabetes,2023-08-19,2.4,8.9,167,yes,no,never,low,6.7,high,true
+P0062,48,female,161.1,74.4,28.7,type_2_diabetes,Type 2 diabetes,2009-06-09,16.6,6.5,140,no,yes,former,moderate,8.0,low,true
+P0063,64,male,177.5,99.4,31.5,type_2_diabetes,Type 2 diabetes,2022-05-22,3.6,5.8,100,no,no,never,high,8.1,low,true
+P0064,58,female,162.3,66.1,25.1,type_2_diabetes,Type 2 diabetes,2024-03-23,1.8,8.2,140,yes,no,never,low,7.2,moderate,true
+P0065,58,female,154.0,69.5,29.3,type_2_diabetes,Type 2 diabetes,2018-01-13,8.0,6.8,99,no,yes,never,low,7.8,low,true
+P0066,58,male,167.1,70.2,25.1,type_2_diabetes,Type 2 diabetes,2013-04-18,12.7,8.1,143,no,no,never,moderate,6.8,moderate,true
+P0067,51,female,157.7,67.6,27.2,type_2_diabetes,Type 2 diabetes,2019-05-05,6.7,8.1,131,no,yes,never,high,7.3,moderate,true
+P0068,45,male,158.2,54.1,21.6,type_2_diabetes,Type 2 diabetes,2020-11-14,5.1,7.7,132,no,no,never,low,6.7,low,true
+P0069,49,male,170.7,106.1,36.4,type_2_diabetes,Type 2 diabetes,2008-05-27,17.6,9.8,162,no,no,never,low,9.0,high,true
+P0070,67,male,168.0,97.0,34.4,type_2_diabetes,Type 2 diabetes,2015-10-17,10.2,7.3,117,yes,yes,never,moderate,5.5,high,true
+P0071,65,male,162.9,78.9,29.7,type_2_diabetes,Type 2 diabetes,2016-04-05,9.7,7.8,123,no,yes,never,low,6.2,moderate,true
+P0072,65,female,161.4,56.0,21.5,type_2_diabetes,Type 2 diabetes,2021-04-05,4.7,5.8,98,no,no,current,high,6.1,low,true
+P0073,45,female,169.1,80.2,28.0,type_2_diabetes,Type 2 diabetes,2023-03-04,2.8,5.8,80,yes,yes,never,high,6.5,low,true
+P0074,48,female,164.1,62.2,23.1,type_2_diabetes,Type 2 diabetes,2020-12-26,5.0,8.1,140,no,yes,current,low,7.1,high,true
+P0075,46,male,175.8,100.4,32.5,type_2_diabetes,Type 2 diabetes,2014-03-12,11.8,7.0,133,yes,yes,never,low,6.7,high,true
+P0076,48,female,161.8,71.8,27.4,type_2_diabetes,Type 2 diabetes,2021-01-26,4.9,7.5,154,no,yes,never,high,7.9,low,true
+P0077,76,female,164.8,67.4,24.8,type_2_diabetes,Type 2 diabetes,2016-01-19,10.0,7.6,142,yes,no,never,moderate,6.7,moderate,true
+P0078,61,female,145.0,66.7,31.7,type_2_diabetes,Type 2 diabetes,2018-05-04,7.7,5.8,80,yes,yes,never,moderate,8.8,moderate,true
+P0079,57,male,184.3,103.9,30.6,type_2_diabetes,Type 2 diabetes,2020-07-19,5.5,6.5,110,yes,yes,never,low,6.8,moderate,true
+P0080,56,male,174.6,99.9,32.8,type_2_diabetes,Type 2 diabetes,2014-07-19,11.5,6.6,97,no,yes,current,low,7.2,high,true
+P0081,66,male,177.4,74.5,23.7,type_2_diabetes,Type 2 diabetes,2022-02-27,3.8,8.1,133,no,yes,former,moderate,7.3,moderate,true
+P0082,66,male,173.8,92.4,30.6,type_2_diabetes,Type 2 diabetes,2022-11-22,3.1,8.6,146,yes,yes,never,moderate,6.7,high,true
+P0083,66,female,153.0,85.4,36.5,type_2_diabetes,Type 2 diabetes,2023-09-09,2.3,7.1,98,yes,yes,never,low,7.3,high,true
+P0084,61,female,163.7,87.8,32.8,type_2_diabetes,Type 2 diabetes,2025-06-06,0.6,5.8,93,no,yes,current,low,6.6,moderate,true
+P0085,63,male,173.0,103.1,34.4,type_2_diabetes,Type 2 diabetes,2017-02-21,8.9,7.1,131,no,yes,former,low,6.3,moderate,true
+P0086,52,female,164.5,69.5,25.7,type_2_diabetes,Type 2 diabetes,2021-03-14,4.8,8.2,122,no,yes,never,moderate,7.3,moderate,true
+P0087,59,female,160.0,93.6,36.6,type_2_diabetes,Type 2 diabetes,2022-08-26,3.4,7.2,138,yes,no,former,low,6.8,moderate,true
+P0088,45,male,171.4,67.1,22.8,type_2_diabetes,Type 2 diabetes,2013-01-26,12.9,6.7,116,no,no,never,low,7.3,low,true
+P0089,58,female,158.3,59.4,23.7,type_2_diabetes,Type 2 diabetes,2021-06-18,4.5,5.9,110,no,no,former,high,8.0,low,true
+P0090,75,male,176.5,107.1,34.4,type_2_diabetes,Type 2 diabetes,2017-06-28,8.5,9.1,171,no,yes,former,high,6.4,high,true
+P0091,72,female,170.7,83.9,28.8,type_2_diabetes,Type 2 diabetes,2019-12-23,6.0,6.4,105,yes,yes,never,low,7.4,moderate,true
+P0092,58,female,156.1,70.5,28.9,type_2_diabetes,Type 2 diabetes,2009-07-21,16.4,7.5,124,yes,no,former,moderate,6.5,moderate,true
+P0093,73,female,169.4,86.9,30.3,type_2_diabetes,Type 2 diabetes,2020-05-21,5.6,7.7,130,yes,yes,never,moderate,7.6,high,true
+P0094,63,female,158.5,86.9,34.6,type_2_diabetes,Type 2 diabetes,2015-06-17,10.5,8.9,154,no,yes,never,high,8.2,high,true
+P0095,31,female,153.3,66.7,28.4,type_2_diabetes,Type 2 diabetes,2023-07-20,2.5,7.4,105,no,no,never,low,6.1,low,true
+P0096,37,female,160.2,65.5,25.5,type_2_diabetes,Type 2 diabetes,2022-12-25,3.0,7.6,107,yes,yes,never,moderate,6.4,moderate,true
+P0097,64,female,152.1,66.1,28.6,type_2_diabetes,Type 2 diabetes,2020-12-17,5.0,8.1,147,no,no,never,low,8.6,moderate,true
+P0098,44,female,155.0,88.1,36.7,type_2_diabetes,Type 2 diabetes,2022-03-03,3.8,6.5,92,yes,no,never,low,6.3,moderate,true
+P0099,83,female,166.8,77.3,27.8,type_2_diabetes,Type 2 diabetes,2025-09-14,0.3,7.5,117,yes,no,never,high,7.0,moderate,true
+P0100,72,female,163.7,89.8,33.5,type_2_diabetes,Type 2 diabetes,2016-11-08,9.1,6.7,121,no,no,never,high,6.1,low,true
+P0101,49,male,167.5,70.4,25.1,no_diabetes,No diabetes,,0.0,5.5,103,no,no,never,moderate,7.8,low,true
+P0102,49,female,158.3,45.4,18.1,no_diabetes,No diabetes,,0.0,4.9,91,no,no,never,moderate,6.5,low,true
+P0103,59,female,172.3,68.8,23.2,no_diabetes,No diabetes,,0.0,5.4,96,no,no,never,high,7.5,low,true
+P0104,57,female,164.9,83.9,30.9,no_diabetes,No diabetes,,0.0,5.2,92,no,yes,never,moderate,7.3,low,true
+P0105,44,female,146.9,37.8,17.5,no_diabetes,No diabetes,,0.0,5.4,93,no,no,never,moderate,7.1,low,true
+P0106,41,male,170.2,50.7,17.5,no_diabetes,No diabetes,,0.0,5.6,85,no,yes,never,high,5.3,low,true
+P0107,57,male,171.2,51.3,17.5,no_diabetes,No diabetes,,0.0,5.7,78,no,yes,former,high,7.3,low,true
+P0108,56,female,172.9,72.4,24.2,no_diabetes,No diabetes,,0.0,4.9,93,yes,no,never,moderate,7.2,low,true
+P0109,62,male,161.9,64.3,24.5,no_diabetes,No diabetes,,0.0,4.8,78,no,no,former,high,7.4,low,true
+P0110,57,male,192.0,89.2,24.2,no_diabetes,No diabetes,,0.0,5.5,95,no,no,current,low,6.4,low,true
+P0111,61,male,171.2,79.5,27.1,no_diabetes,No diabetes,,0.0,5.5,104,yes,no,current,moderate,6.8,low,true
+P0112,42,male,179.4,59.3,18.4,no_diabetes,No diabetes,,0.0,5.2,92,no,yes,former,high,5.8,low,true
+P0113,60,male,161.8,65.2,24.9,no_diabetes,No diabetes,,0.0,5.5,94,no,no,former,moderate,6.7,low,true
+P0114,45,male,160.7,65.5,25.4,no_diabetes,No diabetes,,0.0,5.7,98,no,no,never,low,7.4,low,true
+P0115,19,female,164.9,66.1,24.3,no_diabetes,No diabetes,,0.0,4.9,93,yes,yes,never,low,7.6,moderate,true
+P0116,51,male,177.6,78.7,25.0,no_diabetes,No diabetes,,0.0,5.2,103,no,no,never,low,8.8,low,true
+P0117,62,male,173.2,72.5,24.2,no_diabetes,No diabetes,,0.0,5.5,101,no,no,never,moderate,7.5,low,true
+P0118,59,male,171.1,62.9,21.5,no_diabetes,No diabetes,,0.0,6.0,100,no,no,current,moderate,7.9,low,true
+P0119,38,male,163.3,81.2,30.4,no_diabetes,No diabetes,,0.0,5.4,106,no,no,never,low,7.4,low,true
+P0120,46,female,158.4,76.7,30.6,no_diabetes,No diabetes,,0.0,5.7,96,no,no,never,high,6.3,low,true
+P0121,54,male,173.3,60.4,20.1,no_diabetes,No diabetes,,0.0,4.9,75,yes,yes,never,high,6.8,low,true
+P0122,45,male,187.7,68.6,19.5,no_diabetes,No diabetes,,0.0,5.7,98,no,no,former,high,6.4,low,true
+P0123,61,male,175.3,78.9,25.7,no_diabetes,No diabetes,,0.0,5.3,87,no,yes,never,high,6.1,low,true
+P0124,58,female,153.3,53.7,22.9,no_diabetes,No diabetes,,0.0,5.7,97,no,no,never,high,8.6,low,true
+P0125,49,female,164.6,77.0,28.4,no_diabetes,No diabetes,,0.0,4.8,86,no,no,never,high,6.0,low,true
+P0126,18,female,159.5,61.8,24.3,no_diabetes,No diabetes,,0.0,5.7,102,yes,no,never,moderate,7.2,low,true
+P0127,62,male,187.1,74.8,21.4,no_diabetes,No diabetes,,0.0,4.8,79,no,no,never,moderate,6.9,low,true
+P0128,68,male,171.3,53.5,18.2,no_diabetes,No diabetes,,0.0,5.5,95,yes,yes,current,moderate,5.9,moderate,true
+P0129,38,male,178.4,89.4,28.1,no_diabetes,No diabetes,,0.0,5.2,90,no,no,never,moderate,6.1,low,true
+P0130,50,female,165.7,52.1,19.0,no_diabetes,No diabetes,,0.0,5.3,92,no,no,never,low,7.8,low,true
+P0131,18,male,181.3,80.3,24.4,no_diabetes,No diabetes,,0.0,5.1,88,no,no,never,low,6.6,low,true
+P0132,27,female,151.8,56.1,24.3,no_diabetes,No diabetes,,0.0,5.5,95,no,no,never,high,7.0,low,true
+P0133,64,female,151.8,54.9,23.8,no_diabetes,No diabetes,,0.0,5.5,94,no,no,never,moderate,7.0,low,true
+P0134,49,female,156.6,66.3,27.0,no_diabetes,No diabetes,,0.0,4.8,87,yes,yes,never,high,7.9,low,true
+P0135,50,male,156.6,76.1,31.0,no_diabetes,No diabetes,,0.0,6.2,94,no,no,never,high,7.9,low,true
+P0136,21,male,179.8,80.9,25.0,no_diabetes,No diabetes,,0.0,4.9,89,no,no,never,moderate,7.0,low,true
+P0137,46,male,171.7,65.9,22.4,no_diabetes,No diabetes,,0.0,5.7,98,no,no,never,high,5.6,low,true
+P0138,59,male,173.9,103.0,34.1,no_diabetes,No diabetes,,0.0,5.3,101,no,yes,never,high,7.2,low,true
+P0139,37,male,161.8,66.8,25.5,no_diabetes,No diabetes,,0.0,5.3,80,no,no,former,low,5.8,low,true
+P0140,32,female,157.5,73.6,29.7,no_diabetes,No diabetes,,0.0,5.9,94,yes,no,current,low,5.7,moderate,true
+P0141,27,female,162.2,53.3,20.3,no_diabetes,No diabetes,,0.0,5.2,104,no,yes,current,high,7.1,low,true
+P0142,18,male,174.7,98.4,32.2,no_diabetes,No diabetes,,0.0,5.4,98,no,no,never,moderate,6.9,low,true
+P0143,32,female,157.2,56.8,23.0,no_diabetes,No diabetes,,0.0,4.9,92,yes,yes,current,low,7.1,moderate,true
+P0144,33,male,169.3,72.5,25.3,no_diabetes,No diabetes,,0.0,5.3,90,no,no,never,moderate,5.9,low,true
+P0145,45,female,161.7,61.5,23.5,no_diabetes,No diabetes,,0.0,5.5,85,no,no,never,high,6.6,low,true
+P0146,61,male,167.6,63.6,22.6,no_diabetes,No diabetes,,0.0,5.2,96,no,no,never,moderate,7.1,low,true
+P0147,30,male,168.6,59.6,21.0,no_diabetes,No diabetes,,0.0,5.3,83,no,no,former,moderate,6.8,low,true
+P0148,41,male,173.5,60.4,20.1,no_diabetes,No diabetes,,0.0,5.7,97,no,no,never,high,7.6,low,true
+P0149,49,male,166.1,76.2,27.6,no_diabetes,No diabetes,,0.0,5.7,85,no,yes,never,low,7.2,low,true
+P0150,43,female,149.0,52.8,23.8,no_diabetes,No diabetes,,0.0,5.3,87,no,no,never,moderate,6.7,low,true

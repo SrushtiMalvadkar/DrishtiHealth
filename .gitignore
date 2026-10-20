@@ -1,0 +1,47 @@
+@'
+
+# Python virtual environments
+.venv/
+venv/
+backend/.venv/
+
+# Node dependencies and build output
+node_modules/
+frontend/node_modules/
+frontend/dist/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# Generated model artifacts (review before publishing)
+ml/models/*.joblib
+'@ | Add-Content .gitignore
+# Python environments and caches
+.venv/
+venv/
+backend/.venv/
+__pycache__/
+*.py[cod]
+
+# Frontend dependencies and build files
+node_modules/
+frontend/node_modules/
+frontend/dist/
+
+# Large trained model files
+ml/models/*.joblib
+
+# Environment variables and logs
+.env
+.env.*
+!.env.example
+*.log

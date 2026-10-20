@@ -1,0 +1,265 @@
+medication_record_id,patient_id,medication_name,medication_class,dose_value,dose_unit,frequency,route,start_timestamp,end_timestamp,medication_status,synthetic_data_flag
+MED0001,P0001,metformin,biguanide,850.0,mg,twice daily,oral,2022-12-03T08:13:00+05:30,,active,true
+MED0002,P0001,glimepiride,sulfonylurea,1.0,mg,once daily,oral,2022-06-02T08:50:00+05:30,,active,true
+MED0003,P0001,atorvastatin,statin,40.0,mg,once daily,oral,2023-07-28T08:26:00+05:30,,active,true
+MED0004,P0002,metformin,biguanide,850.0,mg,once daily,oral,2022-10-09T08:38:00+05:30,,active,true
+MED0005,P0002,sitagliptin,DPP-4 inhibitor,50.0,mg,once daily,oral,2020-03-28T09:00:00+05:30,2021-09-11T09:00:00+05:30,discontinued,true
+MED0006,P0002,dapagliflozin,SGLT2 inhibitor,10.0,mg,once daily,oral,2018-08-29T08:00:00+05:30,2018-11-21T08:00:00+05:30,completed,true
+MED0007,P0002,atorvastatin,statin,40.0,mg,once daily,oral,2025-11-05T08:03:00+05:30,,active,true
+MED0008,P0003,metformin,biguanide,500.0,mg,once daily,oral,2025-05-07T08:01:00+05:30,,active,true
+MED0009,P0003,sitagliptin,DPP-4 inhibitor,100.0,mg,once daily,oral,2022-04-19T08:26:00+05:30,,active,true
+MED0010,P0003,atorvastatin,statin,10.0,mg,once daily,oral,2025-02-06T08:44:00+05:30,,active,true
+MED0011,P0003,amlodipine,calcium channel blocker,2.5,mg,once daily,oral,2024-03-29T08:21:00+05:30,,active,true
+MED0012,P0004,metformin,biguanide,850.0,mg,twice daily,oral,2021-12-17T08:26:00+05:30,,active,true
+MED0013,P0004,empagliflozin,SGLT2 inhibitor,10.0,mg,once daily,oral,2022-12-26T08:48:00+05:30,,active,true
+MED0014,P0004,glimepiride,sulfonylurea,2.0,mg,once daily,oral,2020-05-25T09:00:00+05:30,2021-10-10T09:00:00+05:30,discontinued,true
+MED0015,P0005,sitagliptin,DPP-4 inhibitor,100.0,mg,once daily,oral,2023-03-16T08:56:00+05:30,,active,true
+MED0016,P0005,empagliflozin,SGLT2 inhibitor,10.0,mg,once daily,oral,2022-02-20T08:31:00+05:30,,active,true
+MED0017,P0005,glimepiride,sulfonylurea,2.0,mg,once daily,oral,2021-12-15T09:00:00+05:30,2023-01-28T09:00:00+05:30,discontinued,true
+MED0018,P0005,atorvastatin,statin,20.0,mg,once daily,oral,2023-11-25T08:47:00+05:30,,active,true
+MED0019,P0006,metformin,biguanide,1000.0,mg,twice daily,oral,2023-06-08T08:05:00+05:30,,active,true
+MED0020,P0006,sitagliptin,DPP-4 inhibitor,50.0,mg,once daily,oral,2018-07-13T08:08:00+05:30,,active,true
+MED0021,P0007,metformin,biguanide,850.0,mg,twice daily,oral,2023-09-23T08:08:00+05:30,2026-01-18T06:00:00+05:30,discontinued,true
+MED0022,P0007,glimepiride,sulfonylurea,2.0,mg,once daily,oral,2026-01-05T15:36:00+05:30,,active,true
+MED0023,P0007,amlodipine,calcium channel blocker,5.0,mg,once daily,oral,2025-12-05T08:35:00+05:30,,active,true
+MED0024,P0008,metformin,biguanide,1000.0,mg,once daily,oral,2025-06-15T08:20:00+05:30,,active,true
+MED0025,P0008,glimepiride,sulfonylurea,4.0,mg,once daily,oral,2022-08-28T08:56:00+05:30,,active,true
+MED0026,P0008,sitagliptin,DPP-4 inhibitor,50.0,mg,once daily,oral,2020-10-14T08:58:00+05:30,2026-01-07T10:00:00+05:30,discontinued,true
+MED0027,P0008,sitagliptin,DPP-4 inhibitor,50.0,mg,once daily,oral,2022-08-21T09:00:00+05:30,2024-01-16T09:00:00+05:30,discontinued,true
+MED0028,P0008,losartan,angiotensin receptor blocker,50.0,mg,once daily,oral,2025-05-07T08:52:00+05:30,,active,true
+MED0029,P0009,atorvastatin,statin,20.0,mg,once daily,oral,2025-03-30T08:11:00+05:30,,active,true
+MED0030,P0010,metformin,biguanide,500.0,mg,twice daily,oral,2015-10-02T08:27:00+05:30,,active,true
+MED0031,P0010,amlodipine,calcium channel blocker,10.0,mg,once daily,oral,2024-10-09T08:33:00+05:30,,active,true
+MED0032,P0011,metformin,biguanide,1000.0,mg,twice daily,oral,2025-10-08T08:17:00+05:30,,active,true
+MED0033,P0012,metformin,biguanide,1000.0,mg,twice daily,oral,2025-09-18T08:55:00+05:30,,active,true
+MED0034,P0012,glimepiride,sulfonylurea,2.0,mg,once daily,oral,2023-05-20T08:14:00+05:30,,active,true
+MED0035,P0012,atorvastatin,statin,10.0,mg,once daily,oral,2024-02-02T08:04:00+05:30,,active,true
+MED0036,P0013,metformin,biguanide,1000.0,mg,once daily,oral,2023-04-27T08:07:00+05:30,,active,true
+MED0037,P0013,empagliflozin,SGLT2 inhibitor,25.0,mg,once daily,oral,2025-10-09T08:40:00+05:30,,active,true
+MED0038,P0013,dapagliflozin,SGLT2 inhibitor,10.0,mg,once daily,oral,2022-04-13T08:00:00+05:30,2022-07-06T08:00:00+05:30,completed,true
+MED0039,P0014,metformin,biguanide,500.0,mg,twice daily,oral,2023-11-14T08:45:00+05:30,,active,true
+MED0040,P0014,glimepiride,sulfonylurea,2.0,mg,once daily,oral,2023-03-05T08:33:00+05:30,,active,true
+MED0041,P0014,insulin glargine,basal insulin,36.0,units,once daily,subcutaneous,2025-02-19T08:13:00+05:30,,active,true
+MED0042,P0014,atorvastatin,statin,20.0,mg,once daily,oral,2023-12-27T08:35:00+05:30,,active,true
+MED0043,P0015,metformin,biguanide,850.0,mg,once daily,oral,2021-08-27T08:30:00+05:30,,active,true
+MED0044,P0015,sitagliptin,DPP-4 inhibitor,50.0,mg,once daily,oral,2021-10-25T09:00:00+05:30,2023-04-17T09:00:00+05:30,discontinued,true
+MED0045,P0015,atorvastatin,statin,40.0,mg,once daily,oral,2023-09-16T08:06:00+05:30,,active,true
+MED0046,P0016,metformin,biguanide,850.0,mg,twice daily,oral,2020-03-03T08:21:00+05:30,,active,true
+MED0047,P0016,glimepiride,sulfonylurea,2.0,mg,once daily,oral,2021-04-01T08:53:00+05:30,,active,true
+MED0048,P0016,sitagliptin,DPP-4 inhibitor,50.0,mg,once daily,oral,2020-11-02T08:05:00+05:30,,active,true
+MED0049,P0016,atorvastatin,statin,10.0,mg,once daily,oral,2025-02-19T08:41:00+05:30,,active,true
+MED0050,P0017,metformin,biguanide,850.0,mg,once daily,oral,2020-10-12T08:17:00+05:30,,active,true
+MED0051,P0018,metformin,biguanide,850.0,mg,twice daily,oral,2017-10-11T08:43:00+05:30,,active,true
+MED0052,P0018,sitagliptin,DPP-4 inhibitor,50.0,mg,once daily,oral,2017-07-11T08:45:00+05:30,,active,true
+MED0053,P0018,empagliflozin,SGLT2 inhibitor,10.0,mg,once daily,oral,2016-01-06T08:11:00+05:30,,active,true
+MED0054,P0018,dapagliflozin,SGLT2 inhibitor,10.0,mg,once daily,oral,2015-03-25T08:00:00+05:30,2015-06-17T08:00:00+05:30,completed,true
+MED0055,P0019,atorvastatin,statin,10.0,mg,once daily,oral,2023-10-14T08:35:00+05:30,,active,true
+MED0056,P0020,metformin,biguanide,500.0,mg,twice daily,oral,2025-08-15T08:23:00+05:30,,active,true
+MED0057,P0020,glimepiride,sulfonylurea,3.0,mg,once daily,oral,2026-01-06T06:24:00+05:30,,active,true
+MED0058,P0020,sitagliptin,DPP-4 inhibitor,50.0,mg,once daily,oral,2025-06-21T08:04:00+05:30,,active,true
+MED0059,P0020,atorvastatin,statin,20.0,mg,once daily,oral,2025-07-25T08:41:00+05:30,,active,true
+MED0060,P0021,metformin,biguanide,1000.0,mg,twice daily,oral,2025-05-10T08:59:00+05:30,,active,true
+MED0061,P0021,atorvastatin,statin,40.0,mg,once daily,oral,2025-08-12T08:59:00+05:30,,active,true
+MED0062,P0022,metformin,biguanide,1000.0,mg,twice daily,oral,2021-03-24T08:28:00+05:30,,active,true
+MED0063,P0023,sitagliptin,DPP-4 inhibitor,50.0,mg,once daily,oral,2020-04-12T08:15:00+05:30,,active,true
+MED0064,P0023,insulin glargine,basal insulin,20.0,units,once daily,subcutaneous,2025-07-01T08:09:00+05:30,,active,true
+MED0065,P0023,telmisartan,angiotensin receptor blocker,40.0,mg,once daily,oral,2024-08-16T08:07:00+05:30,,active,true
+MED0066,P0024,metformin,biguanide,500.0,mg,twice daily,oral,2020-06-03T08:47:00+05:30,,active,true
+MED0067,P0024,atorvastatin,statin,10.0,mg,once daily,oral,2025-05-27T08:58:00+05:30,,active,true
+MED0068,P0025,metformin,biguanide,500.0,mg,once daily,oral,2025-04-27T08:05:00+05:30,,active,true
+MED0069,P0025,glimepiride,sulfonylurea,4.0,mg,once daily,oral,2022-08-13T08:15:00+05:30,,active,true
+MED0070,P0026,glimepiride,sulfonylurea,2.0,mg,once daily,oral,2022-10-28T08:20:00+05:30,,active,true
+MED0071,P0027,metformin,biguanide,1000.0,mg,twice daily,oral,2026-01-14T07:16:00+05:30,,active,true
+MED0072,P0028,metformin,biguanide,1000.0,mg,once daily,oral,2025-08-01T08:02:00+05:30,,active,true
+MED0073,P0028,glimepiride,sulfonylurea,3.0,mg,once daily,oral,2025-07-19T08:22:00+05:30,,active,true
+MED0074,P0029,metformin,biguanide,1000.0,mg,once daily,oral,2022-02-10T08:36:00+05:30,2026-01-28T22:00:00+05:30,discontinued,true
+MED0075,P0029,empagliflozin,SGLT2 inhibitor,25.0,mg,once daily,oral,2016-11-01T08:53:00+05:30,,active,true
+MED0076,P0030,metformin,biguanide,500.0,mg,twice daily,oral,2026-01-07T07:42:00+05:30,,active,true
+MED0077,P0030,sitagliptin,DPP-4 inhibitor,50.0,mg,once daily,oral,2018-01-12T08:48:00+05:30,,active,true
+MED0078,P0031,metformin,biguanide,1000.0,mg,once daily,oral,2026-01-16T06:57:00+05:30,,active,true
+MED0079,P0031,atorvastatin,statin,20.0,mg,once daily,oral,2023-08-11T08:26:00+05:30,,active,true
+MED0080,P0031,losartan,angiotensin receptor blocker,50.0,mg,once daily,oral,2024-08-26T08:17:00+05:30,,active,true
+MED0081,P0032,metformin,biguanide,1000.0,mg,twice daily,oral,2024-11-17T08:38:00+05:30,,active,true
+MED0082,P0032,losartan,angiotensin receptor blocker,50.0,mg,once daily,oral,2024-05-19T08:05:00+05:30,,active,true
+MED0083,P0033,glimepiride,sulfonylurea,4.0,mg,once daily,oral,2022-11-22T08:28:00+05:30,,active,true
+MED0084,P0033,sitagliptin,DPP-4 inhibitor,100.0,mg,once daily,oral,2025-11-15T08:17:00+05:30,,active,true
+MED0085,P0034,metformin,biguanide,850.0,mg,once daily,oral,2020-02-09T08:07:00+05:30,,active,true
+MED0086,P0034,insulin glargine,basal insulin,34.0,units,once daily,subcutaneous,2022-01-12T08:24:00+05:30,,active,true
+MED0087,P0034,atorvastatin,statin,20.0,mg,once daily,oral,2024-10-09T08:17:00+05:30,,active,true
+MED0088,P0036,metformin,biguanide,850.0,mg,twice daily,oral,2024-09-22T08:20:00+05:30,,active,true
+MED0089,P0037,metformin,biguanide,500.0,mg,twice daily,oral,2022-02-19T08:11:00+05:30,,active,true
+MED0090,P0038,metformin,biguanide,850.0,mg,once daily,oral,2025-06-25T08:24:00+05:30,,active,true
+MED0091,P0038,dapagliflozin,SGLT2 inhibitor,10.0,mg,once daily,oral,2025-04-14T08:00:00+05:30,2025-07-07T08:00:00+05:30,completed,true
+MED0092,P0038,atorvastatin,statin,20.0,mg,once daily,oral,2024-10-29T08:18:00+05:30,,active,true
+MED0093,P0038,amlodipine,calcium channel blocker,5.0,mg,once daily,oral,2023-12-25T08:28:00+05:30,,active,true
+MED0094,P0039,metformin,biguanide,500.0,mg,twice daily,oral,2022-04-23T08:20:00+05:30,,active,true
+MED0095,P0040,sitagliptin,DPP-4 inhibitor,100.0,mg,once daily,oral,2025-09-27T08:34:00+05:30,,active,true
+MED0096,P0040,atorvastatin,statin,40.0,mg,once daily,oral,2025-07-25T08:33:00+05:30,,active,true
+MED0097,P0041,glimepiride,sulfonylurea,4.0,mg,once daily,oral,2025-11-17T08:38:00+05:30,,active,true
+MED0098,P0041,atorvastatin,statin,10.0,mg,once daily,oral,2024-12-23T08:25:00+05:30,,active,true
+MED0099,P0042,metformin,biguanide,500.0,mg,twice daily,oral,2025-06-19T08:31:00+05:30,2026-01-26T16:00:00+05:30,discontinued,true
+MED0100,P0042,sitagliptin,DPP-4 inhibitor,100.0,mg,once daily,oral,2025-01-21T08:05:00+05:30,,active,true
+MED0101,P0042,atorvastatin,statin,40.0,mg,once daily,oral,2025-06-06T08:01:00+05:30,,active,true
+MED0102,P0043,metformin,biguanide,850.0,mg,once daily,oral,2026-01-18T13:52:00+05:30,,active,true
+MED0103,P0043,dapagliflozin,SGLT2 inhibitor,10.0,mg,once daily,oral,2023-06-21T08:00:00+05:30,2023-09-13T08:00:00+05:30,completed,true
+MED0104,P0044,glimepiride,sulfonylurea,1.0,mg,once daily,oral,2018-05-02T08:09:00+05:30,,active,true
+MED0105,P0044,glimepiride,sulfonylurea,2.0,mg,once daily,oral,2020-02-12T09:00:00+05:30,2020-07-26T09:00:00+05:30,discontinued,true
+MED0106,P0045,metformin,biguanide,1000.0,mg,twice daily,oral,2025-04-21T08:27:00+05:30,,active,true
+MED0107,P0045,dapagliflozin,SGLT2 inhibitor,10.0,mg,once daily,oral,2019-06-02T08:00:00+05:30,2019-08-25T08:00:00+05:30,completed,true
+MED0108,P0046,metformin,biguanide,1000.0,mg,once daily,oral,2025-09-29T08:12:00+05:30,,active,true
+MED0109,P0046,glimepiride,sulfonylurea,4.0,mg,once daily,oral,2023-09-06T08:06:00+05:30,,active,true
+MED0110,P0047,metformin,biguanide,850.0,mg,once daily,oral,2023-10-19T08:27:00+05:30,,active,true
+MED0111,P0047,glimepiride,sulfonylurea,4.0,mg,once daily,oral,2024-11-02T08:38:00+05:30,,active,true
+MED0112,P0047,sitagliptin,DPP-4 inhibitor,50.0,mg,once daily,oral,2024-12-26T08:14:00+05:30,,active,true
+MED0113,P0048,metformin,biguanide,500.0,mg,twice daily,oral,2016-04-25T08:12:00+05:30,,active,true
+MED0114,P0048,empagliflozin,SGLT2 inhibitor,10.0,mg,once daily,oral,2017-07-23T08:01:00+05:30,,active,true
+MED0115,P0048,dapagliflozin,SGLT2 inhibitor,10.0,mg,once daily,oral,2008-12-16T08:00:00+05:30,2009-03-10T08:00:00+05:30,completed,true
+MED0116,P0049,metformin,biguanide,1000.0,mg,twice daily,oral,2025-11-22T08:29:00+05:30,,active,true
+MED0117,P0050,metformin,biguanide,850.0,mg,twice daily,oral,2025-10-24T08:23:00+05:30,,active,true
+MED0118,P0050,insulin glargine,basal insulin,20.0,units,once daily,subcutaneous,2025-03-23T08:22:00+05:30,,active,true
+MED0119,P0050,losartan,angiotensin receptor blocker,50.0,mg,once daily,oral,2024-05-01T08:09:00+05:30,,active,true
+MED0120,P0051,metformin,biguanide,850.0,mg,twice daily,oral,2022-08-16T08:35:00+05:30,,active,true
+MED0121,P0051,sitagliptin,DPP-4 inhibitor,50.0,mg,once daily,oral,2022-11-21T09:00:00+05:30,2023-05-17T09:00:00+05:30,discontinued,true
+MED0122,P0051,atorvastatin,statin,20.0,mg,once daily,oral,2024-12-16T08:17:00+05:30,,active,true
+MED0123,P0052,metformin,biguanide,500.0,mg,once daily,oral,2025-04-12T08:47:00+05:30,,active,true
+MED0124,P0052,sitagliptin,DPP-4 inhibitor,100.0,mg,once daily,oral,2026-01-17T10:14:00+05:30,,active,true
+MED0125,P0052,telmisartan,angiotensin receptor blocker,40.0,mg,once daily,oral,2025-04-15T08:19:00+05:30,,active,true
+MED0126,P0053,metformin,biguanide,500.0,mg,once daily,oral,2020-06-13T08:10:00+05:30,,active,true
+MED0127,P0053,dapagliflozin,SGLT2 inhibitor,10.0,mg,once daily,oral,2022-03-28T08:00:00+05:30,2022-06-20T08:00:00+05:30,completed,true
+MED0128,P0053,atorvastatin,statin,40.0,mg,once daily,oral,2025-08-03T08:32:00+05:30,,active,true
+MED0129,P0054,metformin,biguanide,1000.0,mg,once daily,oral,2025-02-20T08:47:00+05:30,,active,true
+MED0130,P0054,sitagliptin,DPP-4 inhibitor,50.0,mg,once daily,oral,2024-05-14T08:33:00+05:30,,active,true
+MED0131,P0054,empagliflozin,SGLT2 inhibitor,10.0,mg,once daily,oral,2026-01-17T16:45:00+05:30,,active,true
+MED0132,P0054,atorvastatin,statin,10.0,mg,once daily,oral,2025-03-08T08:26:00+05:30,,active,true
+MED0133,P0054,telmisartan,angiotensin receptor blocker,40.0,mg,once daily,oral,2024-10-27T08:44:00+05:30,,active,true
+MED0134,P0055,metformin,biguanide,500.0,mg,twice daily,oral,2025-11-27T08:18:00+05:30,,active,true
+MED0135,P0055,glimepiride,sulfonylurea,3.0,mg,once daily,oral,2025-09-15T08:36:00+05:30,,active,true
+MED0136,P0055,atorvastatin,statin,20.0,mg,once daily,oral,2024-02-24T08:12:00+05:30,,active,true
+MED0137,P0056,metformin,biguanide,500.0,mg,once daily,oral,2018-02-15T08:47:00+05:30,,active,true
+MED0138,P0057,metformin,biguanide,500.0,mg,once daily,oral,2016-09-30T08:26:00+05:30,,active,true
+MED0139,P0057,sitagliptin,DPP-4 inhibitor,50.0,mg,once daily,oral,2017-06-13T08:26:00+05:30,,active,true
+MED0140,P0058,metformin,biguanide,850.0,mg,once daily,oral,2023-09-16T08:27:00+05:30,,active,true
+MED0141,P0058,insulin glargine,basal insulin,18.0,units,once daily,subcutaneous,2026-01-09T11:37:00+05:30,,active,true
+MED0142,P0059,metformin,biguanide,1000.0,mg,once daily,oral,2017-08-25T08:38:00+05:30,,active,true
+MED0143,P0059,sitagliptin,DPP-4 inhibitor,100.0,mg,once daily,oral,2023-07-30T08:15:00+05:30,,active,true
+MED0144,P0060,empagliflozin,SGLT2 inhibitor,25.0,mg,once daily,oral,2026-01-06T09:43:00+05:30,,active,true
+MED0145,P0060,amlodipine,calcium channel blocker,10.0,mg,once daily,oral,2024-06-01T08:49:00+05:30,,active,true
+MED0146,P0061,metformin,biguanide,500.0,mg,twice daily,oral,2025-07-20T08:42:00+05:30,2026-01-09T14:00:00+05:30,discontinued,true
+MED0147,P0061,glimepiride,sulfonylurea,2.0,mg,once daily,oral,2026-01-09T16:54:00+05:30,,active,true
+MED0148,P0061,glimepiride,sulfonylurea,2.0,mg,once daily,oral,2023-09-16T09:00:00+05:30,2024-02-13T09:00:00+05:30,discontinued,true
+MED0149,P0062,sitagliptin,DPP-4 inhibitor,50.0,mg,once daily,oral,2019-12-13T08:41:00+05:30,,active,true
+MED0150,P0062,sitagliptin,DPP-4 inhibitor,50.0,mg,once daily,oral,2015-06-17T09:00:00+05:30,2015-10-25T09:00:00+05:30,discontinued,true
+MED0151,P0062,dapagliflozin,SGLT2 inhibitor,10.0,mg,once daily,oral,2018-01-09T08:00:00+05:30,2018-04-03T08:00:00+05:30,completed,true
+MED0152,P0062,atorvastatin,statin,10.0,mg,once daily,oral,2025-10-01T08:33:00+05:30,,active,true
+MED0153,P0063,metformin,biguanide,1000.0,mg,once daily,oral,2022-08-31T08:55:00+05:30,,active,true
+MED0154,P0063,glimepiride,sulfonylurea,3.0,mg,once daily,oral,2026-01-15T19:05:00+05:30,,active,true
+MED0155,P0063,sitagliptin,DPP-4 inhibitor,50.0,mg,once daily,oral,2024-09-15T08:21:00+05:30,2026-01-24T06:00:00+05:30,discontinued,true
+MED0156,P0064,metformin,biguanide,850.0,mg,twice daily,oral,2025-02-17T08:10:00+05:30,,active,true
+MED0157,P0064,glimepiride,sulfonylurea,2.0,mg,once daily,oral,2025-06-25T08:14:00+05:30,,active,true
+MED0158,P0064,empagliflozin,SGLT2 inhibitor,25.0,mg,once daily,oral,2025-05-17T08:16:00+05:30,,active,true
+MED0159,P0064,dapagliflozin,SGLT2 inhibitor,10.0,mg,once daily,oral,2024-07-08T08:00:00+05:30,2024-09-30T08:00:00+05:30,completed,true
+MED0160,P0064,amlodipine,calcium channel blocker,10.0,mg,once daily,oral,2024-04-12T08:04:00+05:30,,active,true
+MED0161,P0065,metformin,biguanide,1000.0,mg,twice daily,oral,2024-03-02T08:28:00+05:30,,active,true
+MED0162,P0065,atorvastatin,statin,40.0,mg,once daily,oral,2025-03-10T08:57:00+05:30,,active,true
+MED0163,P0066,metformin,biguanide,500.0,mg,twice daily,oral,2026-01-03T09:06:00+05:30,,active,true
+MED0164,P0066,sitagliptin,DPP-4 inhibitor,100.0,mg,once daily,oral,2021-07-04T08:37:00+05:30,,active,true
+MED0165,P0066,dapagliflozin,SGLT2 inhibitor,10.0,mg,once daily,oral,2014-04-30T08:00:00+05:30,2014-07-23T08:00:00+05:30,completed,true
+MED0166,P0067,metformin,biguanide,500.0,mg,once daily,oral,2026-01-20T06:12:00+05:30,,active,true
+MED0167,P0067,glimepiride,sulfonylurea,2.0,mg,once daily,oral,2021-10-17T09:00:00+05:30,2023-02-05T09:00:00+05:30,discontinued,true
+MED0168,P0068,metformin,biguanide,850.0,mg,twice daily,oral,2021-08-26T08:55:00+05:30,,active,true
+MED0169,P0068,glimepiride,sulfonylurea,2.0,mg,once daily,oral,2026-01-04T09:27:00+05:30,,active,true
+MED0170,P0069,metformin,biguanide,1000.0,mg,once daily,oral,2011-12-30T08:30:00+05:30,,active,true
+MED0171,P0069,glimepiride,sulfonylurea,3.0,mg,once daily,oral,2017-04-09T08:46:00+05:30,,active,true
+MED0172,P0070,metformin,biguanide,500.0,mg,once daily,oral,2019-05-21T08:23:00+05:30,,active,true
+MED0173,P0070,glimepiride,sulfonylurea,1.0,mg,once daily,oral,2021-08-28T08:36:00+05:30,,active,true
+MED0174,P0070,atorvastatin,statin,40.0,mg,once daily,oral,2024-11-27T08:56:00+05:30,,active,true
+MED0175,P0070,amlodipine,calcium channel blocker,10.0,mg,once daily,oral,2024-04-10T08:14:00+05:30,,active,true
+MED0176,P0071,metformin,biguanide,500.0,mg,once daily,oral,2016-12-20T08:51:00+05:30,,active,true
+MED0177,P0071,atorvastatin,statin,40.0,mg,once daily,oral,2025-09-25T08:30:00+05:30,,active,true
+MED0178,P0072,metformin,biguanide,850.0,mg,once daily,oral,2025-09-22T08:08:00+05:30,,active,true
+MED0179,P0073,metformin,biguanide,1000.0,mg,twice daily,oral,2026-01-19T18:41:00+05:30,,active,true
+MED0180,P0073,empagliflozin,SGLT2 inhibitor,25.0,mg,once daily,oral,2025-01-21T08:26:00+05:30,2026-01-13T14:00:00+05:30,discontinued,true
+MED0181,P0074,metformin,biguanide,500.0,mg,once daily,oral,2023-03-10T08:49:00+05:30,2026-01-06T00:00:00+05:30,discontinued,true
+MED0182,P0074,glimepiride,sulfonylurea,2.0,mg,once daily,oral,2023-09-23T08:59:00+05:30,,active,true
+MED0183,P0074,atorvastatin,statin,10.0,mg,once daily,oral,2024-08-18T08:28:00+05:30,,active,true
+MED0184,P0075,metformin,biguanide,1000.0,mg,twice daily,oral,2016-03-27T08:25:00+05:30,,active,true
+MED0185,P0075,atorvastatin,statin,20.0,mg,once daily,oral,2024-07-17T08:29:00+05:30,,active,true
+MED0186,P0075,losartan,angiotensin receptor blocker,50.0,mg,once daily,oral,2024-06-28T08:22:00+05:30,,active,true
+MED0187,P0076,metformin,biguanide,850.0,mg,twice daily,oral,2022-04-04T08:20:00+05:30,,active,true
+MED0188,P0076,atorvastatin,statin,20.0,mg,once daily,oral,2024-04-02T08:57:00+05:30,,active,true
+MED0189,P0077,glimepiride,sulfonylurea,2.0,mg,once daily,oral,2018-10-02T09:00:00+05:30,2019-12-24T09:00:00+05:30,discontinued,true
+MED0190,P0077,losartan,angiotensin receptor blocker,50.0,mg,once daily,oral,2025-09-19T08:25:00+05:30,,active,true
+MED0191,P0078,metformin,biguanide,500.0,mg,twice daily,oral,2025-08-10T08:50:00+05:30,2026-01-06T11:00:00+05:30,discontinued,true
+MED0192,P0078,sitagliptin,DPP-4 inhibitor,100.0,mg,once daily,oral,2019-03-10T08:09:00+05:30,,active,true
+MED0193,P0078,sitagliptin,DPP-4 inhibitor,50.0,mg,once daily,oral,2019-04-10T09:00:00+05:30,2020-07-21T09:00:00+05:30,discontinued,true
+MED0194,P0078,atorvastatin,statin,10.0,mg,once daily,oral,2024-10-06T08:47:00+05:30,,active,true
+MED0195,P0079,metformin,biguanide,1000.0,mg,twice daily,oral,2023-03-30T08:30:00+05:30,,active,true
+MED0196,P0079,glimepiride,sulfonylurea,2.0,mg,once daily,oral,2021-03-08T09:00:00+05:30,2021-10-01T09:00:00+05:30,discontinued,true
+MED0197,P0079,atorvastatin,statin,40.0,mg,once daily,oral,2025-10-20T08:44:00+05:30,,active,true
+MED0198,P0080,metformin,biguanide,1000.0,mg,once daily,oral,2015-07-08T08:24:00+05:30,,active,true
+MED0199,P0080,glimepiride,sulfonylurea,2.0,mg,once daily,oral,2017-04-08T09:00:00+05:30,2018-09-28T09:00:00+05:30,discontinued,true
+MED0200,P0080,atorvastatin,statin,10.0,mg,once daily,oral,2024-10-03T08:07:00+05:30,,active,true
+MED0201,P0081,metformin,biguanide,500.0,mg,twice daily,oral,2026-01-20T13:08:00+05:30,,active,true
+MED0202,P0081,atorvastatin,statin,10.0,mg,once daily,oral,2025-03-13T08:17:00+05:30,,active,true
+MED0203,P0082,metformin,biguanide,1000.0,mg,once daily,oral,2024-08-02T08:08:00+05:30,,active,true
+MED0204,P0082,sitagliptin,DPP-4 inhibitor,100.0,mg,once daily,oral,2026-01-17T19:31:00+05:30,,active,true
+MED0205,P0082,insulin glargine,basal insulin,36.0,units,once daily,subcutaneous,2024-04-30T08:38:00+05:30,2026-01-12T02:00:00+05:30,discontinued,true
+MED0206,P0082,atorvastatin,statin,20.0,mg,once daily,oral,2025-04-03T08:51:00+05:30,,active,true
+MED0207,P0082,amlodipine,calcium channel blocker,10.0,mg,once daily,oral,2025-06-26T08:45:00+05:30,,active,true
+MED0208,P0083,metformin,biguanide,500.0,mg,twice daily,oral,2025-01-09T08:40:00+05:30,2026-01-26T05:00:00+05:30,discontinued,true
+MED0209,P0083,glimepiride,sulfonylurea,1.0,mg,once daily,oral,2025-06-30T08:20:00+05:30,,active,true
+MED0210,P0083,atorvastatin,statin,10.0,mg,once daily,oral,2025-11-07T08:16:00+05:30,,active,true
+MED0211,P0084,metformin,biguanide,850.0,mg,once daily,oral,2025-11-17T08:25:00+05:30,,active,true
+MED0212,P0084,glimepiride,sulfonylurea,1.0,mg,once daily,oral,2025-12-06T08:20:00+05:30,,active,true
+MED0213,P0084,sitagliptin,DPP-4 inhibitor,50.0,mg,once daily,oral,2025-06-29T08:45:00+05:30,,active,true
+MED0214,P0084,atorvastatin,statin,20.0,mg,once daily,oral,2024-03-09T08:42:00+05:30,,active,true
+MED0215,P0085,metformin,biguanide,1000.0,mg,once daily,oral,2019-04-25T08:53:00+05:30,,active,true
+MED0216,P0086,glimepiride,sulfonylurea,4.0,mg,once daily,oral,2022-05-12T08:32:00+05:30,,active,true
+MED0217,P0086,atorvastatin,statin,20.0,mg,once daily,oral,2023-11-21T08:11:00+05:30,,active,true
+MED0218,P0087,metformin,biguanide,1000.0,mg,twice daily,oral,2025-02-23T08:05:00+05:30,,active,true
+MED0219,P0088,metformin,biguanide,500.0,mg,twice daily,oral,2021-10-05T08:24:00+05:30,,active,true
+MED0220,P0089,metformin,biguanide,1000.0,mg,twice daily,oral,2022-10-18T08:47:00+05:30,,active,true
+MED0221,P0090,metformin,biguanide,500.0,mg,once daily,oral,2024-02-06T08:41:00+05:30,2026-01-13T19:00:00+05:30,discontinued,true
+MED0222,P0090,insulin glargine,basal insulin,14.0,units,once daily,subcutaneous,2023-04-30T08:30:00+05:30,2026-01-10T01:00:00+05:30,discontinued,true
+MED0223,P0090,atorvastatin,statin,40.0,mg,once daily,oral,2025-10-30T08:33:00+05:30,,active,true
+MED0224,P0091,metformin,biguanide,1000.0,mg,twice daily,oral,2024-04-20T08:23:00+05:30,,active,true
+MED0225,P0091,glimepiride,sulfonylurea,1.0,mg,once daily,oral,2022-09-16T08:50:00+05:30,,active,true
+MED0226,P0091,losartan,angiotensin receptor blocker,50.0,mg,once daily,oral,2025-04-16T08:47:00+05:30,,active,true
+MED0227,P0092,metformin,biguanide,1000.0,mg,once daily,oral,2015-12-28T08:38:00+05:30,,active,true
+MED0228,P0092,glimepiride,sulfonylurea,4.0,mg,once daily,oral,2021-06-02T08:30:00+05:30,,active,true
+MED0229,P0092,dapagliflozin,SGLT2 inhibitor,10.0,mg,once daily,oral,2013-05-30T08:00:00+05:30,2013-08-22T08:00:00+05:30,completed,true
+MED0230,P0092,telmisartan,angiotensin receptor blocker,40.0,mg,once daily,oral,2025-05-09T08:09:00+05:30,,active,true
+MED0231,P0093,metformin,biguanide,500.0,mg,once daily,oral,2024-11-03T08:09:00+05:30,,active,true
+MED0232,P0093,sitagliptin,DPP-4 inhibitor,100.0,mg,once daily,oral,2021-12-19T08:31:00+05:30,,active,true
+MED0233,P0093,atorvastatin,statin,40.0,mg,once daily,oral,2024-09-20T08:39:00+05:30,,active,true
+MED0234,P0093,losartan,angiotensin receptor blocker,50.0,mg,once daily,oral,2024-06-19T08:44:00+05:30,,active,true
+MED0235,P0094,metformin,biguanide,500.0,mg,twice daily,oral,2023-12-16T08:25:00+05:30,,active,true
+MED0236,P0094,atorvastatin,statin,40.0,mg,once daily,oral,2025-01-13T08:51:00+05:30,,active,true
+MED0237,P0095,metformin,biguanide,1000.0,mg,twice daily,oral,2024-08-27T08:18:00+05:30,,active,true
+MED0238,P0095,sitagliptin,DPP-4 inhibitor,50.0,mg,once daily,oral,2024-09-03T08:25:00+05:30,,active,true
+MED0239,P0095,insulin glargine,basal insulin,18.0,units,once daily,subcutaneous,2025-05-04T08:08:00+05:30,,active,true
+MED0240,P0095,sitagliptin,DPP-4 inhibitor,50.0,mg,once daily,oral,2024-07-21T09:00:00+05:30,2024-12-19T09:00:00+05:30,discontinued,true
+MED0241,P0096,metformin,biguanide,850.0,mg,once daily,oral,2024-09-14T08:52:00+05:30,,active,true
+MED0242,P0096,empagliflozin,SGLT2 inhibitor,10.0,mg,once daily,oral,2025-01-13T08:56:00+05:30,,active,true
+MED0243,P0096,sitagliptin,DPP-4 inhibitor,50.0,mg,once daily,oral,2023-04-07T09:00:00+05:30,2023-12-30T09:00:00+05:30,discontinued,true
+MED0244,P0096,atorvastatin,statin,20.0,mg,once daily,oral,2025-06-27T08:04:00+05:30,,active,true
+MED0245,P0096,amlodipine,calcium channel blocker,5.0,mg,once daily,oral,2024-10-10T08:58:00+05:30,,active,true
+MED0246,P0097,metformin,biguanide,500.0,mg,once daily,oral,2023-01-23T08:12:00+05:30,,active,true
+MED0247,P0097,sitagliptin,DPP-4 inhibitor,50.0,mg,once daily,oral,2021-10-10T09:00:00+05:30,2021-12-12T09:00:00+05:30,discontinued,true
+MED0248,P0098,metformin,biguanide,1000.0,mg,twice daily,oral,2024-08-14T08:56:00+05:30,,active,true
+MED0249,P0098,glimepiride,sulfonylurea,2.0,mg,once daily,oral,2023-08-25T08:17:00+05:30,,active,true
+MED0250,P0098,glimepiride,sulfonylurea,2.0,mg,once daily,oral,2023-07-20T09:00:00+05:30,2024-11-20T09:00:00+05:30,discontinued,true
+MED0251,P0099,metformin,biguanide,1000.0,mg,twice daily,oral,2025-11-06T08:38:00+05:30,,active,true
+MED0252,P0099,glimepiride,sulfonylurea,4.0,mg,once daily,oral,2025-11-23T08:49:00+05:30,,active,true
+MED0253,P0099,sitagliptin,DPP-4 inhibitor,50.0,mg,once daily,oral,2025-11-05T08:31:00+05:30,,active,true
+MED0254,P0099,telmisartan,angiotensin receptor blocker,40.0,mg,once daily,oral,2023-12-16T08:19:00+05:30,,active,true
+MED0255,P0100,metformin,biguanide,1000.0,mg,once daily,oral,2022-05-17T08:25:00+05:30,,active,true
+MED0256,P0100,glimepiride,sulfonylurea,3.0,mg,once daily,oral,2023-06-01T08:44:00+05:30,,active,true
+MED0257,P0100,insulin glargine,basal insulin,28.0,units,once daily,subcutaneous,2020-01-21T08:26:00+05:30,,active,true
+MED0258,P0111,amlodipine,calcium channel blocker,10.0,mg,once daily,oral,2025-09-25T08:44:00+05:30,,active,true
+MED0259,P0115,atorvastatin,statin,40.0,mg,once daily,oral,2025-06-12T08:12:00+05:30,,active,true
+MED0260,P0126,telmisartan,angiotensin receptor blocker,40.0,mg,once daily,oral,2024-08-12T08:39:00+05:30,,active,true
+MED0261,P0128,atorvastatin,statin,10.0,mg,once daily,oral,2025-09-30T08:54:00+05:30,,active,true
+MED0262,P0140,losartan,angiotensin receptor blocker,50.0,mg,once daily,oral,2024-02-05T08:36:00+05:30,,active,true
+MED0263,P0143,atorvastatin,statin,20.0,mg,once daily,oral,2024-07-16T08:21:00+05:30,,active,true
+MED0264,P0143,telmisartan,angiotensin receptor blocker,40.0,mg,once daily,oral,2023-08-28T08:29:00+05:30,,active,true

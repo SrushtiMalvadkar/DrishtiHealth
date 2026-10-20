@@ -1,0 +1,451 @@
+lab_observation_id,patient_id,collection_timestamp,test_name,test_code,result_value,unit,reference_range_low,reference_range_high,abnormal_flag,specimen_type,record_source,synthetic_data_flag
+L0001,P0001,2026-01-01T06:55:00+05:30,LDL cholesterol,SYN-LDL,163.0,mg/dL,0.0,100.0,high,serum,synthetic_ehr,true
+L0002,P0001,2026-01-16T09:23:00+05:30,Fasting plasma glucose,SYN-FPG,77.0,mg/dL,70.0,99.0,normal,plasma,synthetic_ehr,true
+L0003,P0001,2026-01-20T07:24:00+05:30,Triglycerides,SYN-TRIG,162.0,mg/dL,0.0,150.0,high,serum,synthetic_ehr,true
+L0004,P0002,2026-01-07T06:37:00+05:30,HDL cholesterol,SYN-HDL,54.0,mg/dL,40.0,100.0,normal,serum,synthetic_ehr,true
+L0005,P0002,2026-01-19T08:12:00+05:30,LDL cholesterol,SYN-LDL,131.0,mg/dL,0.0,100.0,high,serum,synthetic_ehr,true
+L0006,P0002,2026-01-26T07:54:00+05:30,Total cholesterol,SYN-CHOL,157.0,mg/dL,125.0,200.0,normal,serum,synthetic_ehr,true
+L0007,P0003,2026-01-05T09:06:00+05:30,HbA1c,SYN-HBA1C,8.4,%,4.0,5.6,high,blood,synthetic_ehr,true
+L0008,P0003,2026-01-13T06:37:00+05:30,LDL cholesterol,SYN-LDL,110.0,mg/dL,0.0,100.0,high,serum,synthetic_ehr,true
+L0009,P0003,2026-01-25T08:50:00+05:30,HDL cholesterol,SYN-HDL,54.0,mg/dL,40.0,100.0,normal,serum,synthetic_ehr,true
+L0010,P0004,2026-01-06T07:04:00+05:30,Total cholesterol,SYN-CHOL,168.0,mg/dL,125.0,200.0,normal,serum,synthetic_ehr,true
+L0011,P0004,2026-01-10T07:40:00+05:30,Triglycerides,SYN-TRIG,118.0,mg/dL,0.0,150.0,normal,serum,synthetic_ehr,true
+L0012,P0004,2026-01-13T15:21:00+05:30,HbA1c,SYN-HBA1C,8.3,%,4.0,5.6,high,blood,synthetic_ehr,true
+L0013,P0005,2026-01-01T13:30:00+05:30,HbA1c,SYN-HBA1C,7.3,%,4.0,5.6,high,blood,synthetic_ehr,true
+L0014,P0005,2026-01-19T08:11:00+05:30,LDL cholesterol,SYN-LDL,104.0,mg/dL,0.0,100.0,high,serum,synthetic_ehr,true
+L0015,P0005,2026-01-26T08:23:00+05:30,Total cholesterol,SYN-CHOL,227.0,mg/dL,125.0,200.0,high,serum,synthetic_ehr,true
+L0016,P0006,2026-01-05T07:04:00+05:30,Fasting plasma glucose,SYN-FPG,123.0,mg/dL,70.0,99.0,high,plasma,synthetic_ehr,true
+L0017,P0006,2026-01-09T08:06:00+05:30,LDL cholesterol,SYN-LDL,138.0,mg/dL,0.0,100.0,high,serum,synthetic_ehr,true
+L0018,P0006,2026-01-25T09:11:00+05:30,Total cholesterol,SYN-CHOL,238.0,mg/dL,125.0,200.0,high,serum,synthetic_ehr,true
+L0019,P0007,2026-01-06T07:01:00+05:30,Fasting plasma glucose,SYN-FPG,133.0,mg/dL,70.0,99.0,high,plasma,synthetic_ehr,true
+L0020,P0007,2026-01-09T07:50:00+05:30,LDL cholesterol,SYN-LDL,103.0,mg/dL,0.0,100.0,high,serum,synthetic_ehr,true
+L0021,P0007,2026-01-25T10:41:00+05:30,HbA1c,SYN-HBA1C,7.2,%,4.0,5.6,high,blood,synthetic_ehr,true
+L0022,P0008,2026-01-06T07:24:00+05:30,Total cholesterol,SYN-CHOL,240.0,mg/dL,125.0,200.0,high,serum,synthetic_ehr,true
+L0023,P0008,2026-01-08T07:47:00+05:30,Triglycerides,SYN-TRIG,340.0,mg/dL,0.0,150.0,high,serum,synthetic_ehr,true
+L0024,P0008,2026-01-26T09:12:00+05:30,Fasting plasma glucose,SYN-FPG,131.0,mg/dL,70.0,99.0,high,plasma,synthetic_ehr,true
+L0025,P0009,2026-01-06T10:00:00+05:30,HbA1c,SYN-HBA1C,6.3,%,4.0,5.6,high,blood,synthetic_ehr,true
+L0026,P0009,2026-01-23T06:53:00+05:30,LDL cholesterol,SYN-LDL,148.0,mg/dL,0.0,100.0,high,serum,synthetic_ehr,true
+L0027,P0009,2026-01-28T09:05:00+05:30,Fasting plasma glucose,SYN-FPG,105.0,mg/dL,70.0,99.0,high,plasma,synthetic_ehr,true
+L0028,P0010,2026-01-03T07:54:00+05:30,Triglycerides,SYN-TRIG,161.0,mg/dL,0.0,150.0,high,serum,synthetic_ehr,true
+L0029,P0010,2026-01-05T07:32:00+05:30,Fasting plasma glucose,SYN-FPG,143.0,mg/dL,70.0,99.0,high,plasma,synthetic_ehr,true
+L0030,P0010,2026-01-27T07:04:00+05:30,HDL cholesterol,SYN-HDL,41.0,mg/dL,40.0,100.0,normal,serum,synthetic_ehr,true
+L0031,P0011,2026-01-10T07:58:00+05:30,Fasting plasma glucose,SYN-FPG,113.0,mg/dL,70.0,99.0,high,plasma,synthetic_ehr,true
+L0032,P0011,2026-01-13T08:55:00+05:30,HDL cholesterol,SYN-HDL,44.0,mg/dL,40.0,100.0,normal,serum,synthetic_ehr,true
+L0033,P0011,2026-01-17T06:58:00+05:30,Serum creatinine,SYN-CREAT,1.89,mg/dL,0.7,1.3,high,serum,synthetic_ehr,true
+L0034,P0012,2026-01-16T07:49:00+05:30,Total cholesterol,SYN-CHOL,245.0,mg/dL,125.0,200.0,high,serum,synthetic_ehr,true
+L0035,P0012,2026-01-17T06:33:00+05:30,Fasting plasma glucose,SYN-FPG,82.0,mg/dL,70.0,99.0,normal,plasma,synthetic_ehr,true
+L0036,P0012,2026-01-28T09:02:00+05:30,HbA1c,SYN-HBA1C,6.6,%,4.0,5.6,high,blood,synthetic_ehr,true
+L0037,P0013,2026-01-03T13:32:00+05:30,HbA1c,SYN-HBA1C,7.4,%,4.0,5.6,high,blood,synthetic_ehr,true
+L0038,P0013,2026-01-16T09:23:00+05:30,Fasting plasma glucose,SYN-FPG,156.0,mg/dL,70.0,99.0,high,plasma,synthetic_ehr,true
+L0039,P0013,2026-01-17T08:54:00+05:30,Total cholesterol,SYN-CHOL,252.0,mg/dL,125.0,200.0,high,serum,synthetic_ehr,true
+L0040,P0014,2026-01-07T08:38:00+05:30,Fasting plasma glucose,SYN-FPG,161.0,mg/dL,70.0,99.0,high,plasma,synthetic_ehr,true
+L0041,P0014,2026-01-18T08:30:00+05:30,Serum creatinine,SYN-CREAT,0.98,mg/dL,0.7,1.3,normal,serum,synthetic_ehr,true
+L0042,P0014,2026-01-24T14:35:00+05:30,HbA1c,SYN-HBA1C,9.1,%,4.0,5.6,high,blood,synthetic_ehr,true
+L0043,P0015,2026-01-05T07:36:00+05:30,HDL cholesterol,SYN-HDL,50.0,mg/dL,40.0,100.0,normal,serum,synthetic_ehr,true
+L0044,P0015,2026-01-16T06:35:00+05:30,Serum creatinine,SYN-CREAT,0.8,mg/dL,0.6,1.1,normal,serum,synthetic_ehr,true
+L0045,P0015,2026-01-24T06:40:00+05:30,Fasting plasma glucose,SYN-FPG,149.0,mg/dL,70.0,99.0,high,plasma,synthetic_ehr,true
+L0046,P0016,2026-01-12T07:27:00+05:30,HDL cholesterol,SYN-HDL,36.0,mg/dL,40.0,100.0,low,serum,synthetic_ehr,true
+L0047,P0016,2026-01-16T08:18:00+05:30,Serum creatinine,SYN-CREAT,0.97,mg/dL,0.7,1.3,normal,serum,synthetic_ehr,true
+L0048,P0016,2026-01-19T07:50:00+05:30,Triglycerides,SYN-TRIG,115.0,mg/dL,0.0,150.0,normal,serum,synthetic_ehr,true
+L0049,P0017,2026-01-02T09:15:00+05:30,Fasting plasma glucose,SYN-FPG,116.0,mg/dL,70.0,99.0,high,plasma,synthetic_ehr,true
+L0050,P0017,2026-01-09T06:48:00+05:30,Total cholesterol,SYN-CHOL,239.0,mg/dL,125.0,200.0,high,serum,synthetic_ehr,true
+L0051,P0017,2026-01-30T07:15:00+05:30,HDL cholesterol,SYN-HDL,46.0,mg/dL,40.0,100.0,normal,serum,synthetic_ehr,true
+L0052,P0018,2026-01-01T08:09:00+05:30,Fasting plasma glucose,SYN-FPG,162.0,mg/dL,70.0,99.0,high,plasma,synthetic_ehr,true
+L0053,P0018,2026-01-14T08:23:00+05:30,HDL cholesterol,SYN-HDL,56.0,mg/dL,40.0,100.0,normal,serum,synthetic_ehr,true
+L0054,P0018,2026-01-24T10:35:00+05:30,HbA1c,SYN-HBA1C,8.9,%,4.0,5.6,high,blood,synthetic_ehr,true
+L0055,P0019,2026-01-14T09:21:00+05:30,Fasting plasma glucose,SYN-FPG,107.0,mg/dL,70.0,99.0,high,plasma,synthetic_ehr,true
+L0056,P0019,2026-01-16T06:47:00+05:30,Serum creatinine,SYN-CREAT,1.12,mg/dL,0.7,1.3,normal,serum,synthetic_ehr,true
+L0057,P0019,2026-01-26T07:53:00+05:30,Total cholesterol,SYN-CHOL,216.0,mg/dL,125.0,200.0,high,serum,synthetic_ehr,true
+L0058,P0020,2026-01-13T09:17:00+05:30,Fasting plasma glucose,SYN-FPG,102.0,mg/dL,70.0,99.0,high,plasma,synthetic_ehr,true
+L0059,P0020,2026-01-16T08:56:00+05:30,HDL cholesterol,SYN-HDL,48.0,mg/dL,40.0,100.0,normal,serum,synthetic_ehr,true
+L0060,P0020,2026-01-19T13:09:00+05:30,HbA1c,SYN-HBA1C,6.6,%,4.0,5.6,high,blood,synthetic_ehr,true
+L0061,P0021,2026-01-06T08:50:00+05:30,Fasting plasma glucose,SYN-FPG,113.0,mg/dL,70.0,99.0,high,plasma,synthetic_ehr,true
+L0062,P0021,2026-01-20T09:14:00+05:30,LDL cholesterol,SYN-LDL,144.0,mg/dL,0.0,100.0,high,serum,synthetic_ehr,true
+L0063,P0021,2026-01-21T12:37:00+05:30,HbA1c,SYN-HBA1C,6.6,%,4.0,5.6,high,blood,synthetic_ehr,true
+L0064,P0022,2026-01-07T08:10:00+05:30,Fasting plasma glucose,SYN-FPG,164.0,mg/dL,70.0,99.0,high,plasma,synthetic_ehr,true
+L0065,P0022,2026-01-23T12:45:00+05:30,HbA1c,SYN-HBA1C,9.0,%,4.0,5.6,high,blood,synthetic_ehr,true
+L0066,P0022,2026-01-26T08:51:00+05:30,HDL cholesterol,SYN-HDL,49.0,mg/dL,40.0,100.0,normal,serum,synthetic_ehr,true
+L0067,P0023,2026-01-06T08:24:00+05:30,Triglycerides,SYN-TRIG,192.0,mg/dL,0.0,150.0,high,serum,synthetic_ehr,true
+L0068,P0023,2026-01-08T07:03:00+05:30,Fasting plasma glucose,SYN-FPG,133.0,mg/dL,70.0,99.0,high,plasma,synthetic_ehr,true
+L0069,P0023,2026-01-19T11:39:00+05:30,HbA1c,SYN-HBA1C,6.3,%,4.0,5.6,high,blood,synthetic_ehr,true
+L0070,P0024,2026-01-14T09:27:00+05:30,HDL cholesterol,SYN-HDL,36.0,mg/dL,40.0,100.0,low,serum,synthetic_ehr,true
+L0071,P0024,2026-01-29T09:24:00+05:30,Fasting plasma glucose,SYN-FPG,124.0,mg/dL,70.0,99.0,high,plasma,synthetic_ehr,true
+L0072,P0024,2026-01-29T12:13:00+05:30,HbA1c,SYN-HBA1C,7.6,%,4.0,5.6,high,blood,synthetic_ehr,true
+L0073,P0025,2026-01-02T08:15:00+05:30,Triglycerides,SYN-TRIG,93.0,mg/dL,0.0,150.0,normal,serum,synthetic_ehr,true
+L0074,P0025,2026-01-12T08:30:00+05:30,Total cholesterol,SYN-CHOL,177.0,mg/dL,125.0,200.0,normal,serum,synthetic_ehr,true
+L0075,P0025,2026-01-16T11:02:00+05:30,HbA1c,SYN-HBA1C,8.4,%,4.0,5.6,high,blood,synthetic_ehr,true
+L0076,P0026,2026-01-17T07:07:00+05:30,HDL cholesterol,SYN-HDL,38.0,mg/dL,40.0,100.0,low,serum,synthetic_ehr,true
+L0077,P0026,2026-01-18T09:15:00+05:30,Fasting plasma glucose,SYN-FPG,151.0,mg/dL,70.0,99.0,high,plasma,synthetic_ehr,true
+L0078,P0026,2026-01-24T10:46:00+05:30,HbA1c,SYN-HBA1C,8.9,%,4.0,5.6,high,blood,synthetic_ehr,true
+L0079,P0027,2026-01-02T08:59:00+05:30,LDL cholesterol,SYN-LDL,109.0,mg/dL,0.0,100.0,high,serum,synthetic_ehr,true
+L0080,P0027,2026-01-12T11:54:00+05:30,HbA1c,SYN-HBA1C,5.8,%,4.0,5.6,high,blood,synthetic_ehr,true
+L0081,P0027,2026-01-18T08:16:00+05:30,Fasting plasma glucose,SYN-FPG,79.0,mg/dL,70.0,99.0,normal,plasma,synthetic_ehr,true
+L0082,P0028,2026-01-27T08:43:00+05:30,HbA1c,SYN-HBA1C,9.2,%,4.0,5.6,high,blood,synthetic_ehr,true
+L0083,P0028,2026-01-29T06:57:00+05:30,Total cholesterol,SYN-CHOL,209.0,mg/dL,125.0,200.0,high,serum,synthetic_ehr,true
+L0084,P0028,2026-01-30T07:53:00+05:30,Triglycerides,SYN-TRIG,151.0,mg/dL,0.0,150.0,high,serum,synthetic_ehr,true
+L0085,P0029,2026-01-07T06:37:00+05:30,Fasting plasma glucose,SYN-FPG,122.0,mg/dL,70.0,99.0,high,plasma,synthetic_ehr,true
+L0086,P0029,2026-01-13T12:04:00+05:30,HbA1c,SYN-HBA1C,8.9,%,4.0,5.6,high,blood,synthetic_ehr,true
+L0087,P0029,2026-01-17T07:23:00+05:30,Triglycerides,SYN-TRIG,120.0,mg/dL,0.0,150.0,normal,serum,synthetic_ehr,true
+L0088,P0030,2026-01-08T09:09:00+05:30,Fasting plasma glucose,SYN-FPG,112.0,mg/dL,70.0,99.0,high,plasma,synthetic_ehr,true
+L0089,P0030,2026-01-14T08:40:00+05:30,LDL cholesterol,SYN-LDL,106.0,mg/dL,0.0,100.0,high,serum,synthetic_ehr,true
+L0090,P0030,2026-01-17T07:30:00+05:30,Total cholesterol,SYN-CHOL,174.0,mg/dL,125.0,200.0,normal,serum,synthetic_ehr,true
+L0091,P0031,2026-01-05T09:08:00+05:30,LDL cholesterol,SYN-LDL,132.0,mg/dL,0.0,100.0,high,serum,synthetic_ehr,true
+L0092,P0031,2026-01-06T08:05:00+05:30,Fasting plasma glucose,SYN-FPG,107.0,mg/dL,70.0,99.0,high,plasma,synthetic_ehr,true
+L0093,P0031,2026-01-21T08:05:00+05:30,Serum creatinine,SYN-CREAT,1.29,mg/dL,0.7,1.3,normal,serum,synthetic_ehr,true
+L0094,P0032,2026-01-03T09:52:00+05:30,HbA1c,SYN-HBA1C,8.0,%,4.0,5.6,high,blood,synthetic_ehr,true
+L0095,P0032,2026-01-10T09:12:00+05:30,Fasting plasma glucose,SYN-FPG,109.0,mg/dL,70.0,99.0,high,plasma,synthetic_ehr,true
+L0096,P0032,2026-01-17T08:21:00+05:30,LDL cholesterol,SYN-LDL,133.0,mg/dL,0.0,100.0,high,serum,synthetic_ehr,true
+L0097,P0033,2026-01-05T08:21:00+05:30,Fasting plasma glucose,SYN-FPG,134.0,mg/dL,70.0,99.0,high,plasma,synthetic_ehr,true
+L0098,P0033,2026-01-21T06:47:00+05:30,Triglycerides,SYN-TRIG,277.0,mg/dL,0.0,150.0,high,serum,synthetic_ehr,true
+L0099,P0033,2026-01-23T12:38:00+05:30,HbA1c,SYN-HBA1C,8.2,%,4.0,5.6,high,blood,synthetic_ehr,true
+L0100,P0034,2026-01-11T09:09:00+05:30,Triglycerides,SYN-TRIG,170.0,mg/dL,0.0,150.0,high,serum,synthetic_ehr,true
+L0101,P0034,2026-01-15T07:30:00+05:30,Total cholesterol,SYN-CHOL,186.0,mg/dL,125.0,200.0,normal,serum,synthetic_ehr,true
+L0102,P0034,2026-01-24T13:31:00+05:30,HbA1c,SYN-HBA1C,8.8,%,4.0,5.6,high,blood,synthetic_ehr,true
+L0103,P0035,2026-01-16T07:44:00+05:30,Triglycerides,SYN-TRIG,153.0,mg/dL,0.0,150.0,high,serum,synthetic_ehr,true
+L0104,P0035,2026-01-18T06:35:00+05:30,Fasting plasma glucose,SYN-FPG,87.0,mg/dL,70.0,99.0,normal,plasma,synthetic_ehr,true
+L0105,P0035,2026-01-24T10:17:00+05:30,HbA1c,SYN-HBA1C,6.2,%,4.0,5.6,high,blood,synthetic_ehr,true
+L0106,P0036,2026-01-11T06:48:00+05:30,Total cholesterol,SYN-CHOL,162.0,mg/dL,125.0,200.0,normal,serum,synthetic_ehr,true
+L0107,P0036,2026-01-23T11:43:00+05:30,HbA1c,SYN-HBA1C,6.9,%,4.0,5.6,high,blood,synthetic_ehr,true
+L0108,P0036,2026-01-25T07:25:00+05:30,Triglycerides,SYN-TRIG,88.0,mg/dL,0.0,150.0,normal,serum,synthetic_ehr,true
+L0109,P0037,2026-01-05T06:55:00+05:30,Fasting plasma glucose,SYN-FPG,175.0,mg/dL,70.0,99.0,high,plasma,synthetic_ehr,true
+L0110,P0037,2026-01-10T08:31:00+05:30,HDL cholesterol,SYN-HDL,51.0,mg/dL,40.0,100.0,normal,serum,synthetic_ehr,true
+L0111,P0037,2026-01-25T15:04:00+05:30,HbA1c,SYN-HBA1C,9.1,%,4.0,5.6,high,blood,synthetic_ehr,true
+L0112,P0038,2026-01-02T09:15:00+05:30,Total cholesterol,SYN-CHOL,233.0,mg/dL,125.0,200.0,high,serum,synthetic_ehr,true
+L0113,P0038,2026-01-03T07:16:00+05:30,Serum creatinine,SYN-CREAT,1.14,mg/dL,0.7,1.3,normal,serum,synthetic_ehr,true
+L0114,P0038,2026-01-28T09:34:00+05:30,HbA1c,SYN-HBA1C,7.8,%,4.0,5.6,high,blood,synthetic_ehr,true
+L0115,P0039,2026-01-08T06:53:00+05:30,LDL cholesterol,SYN-LDL,83.0,mg/dL,0.0,100.0,normal,serum,synthetic_ehr,true
+L0116,P0039,2026-01-17T09:22:00+05:30,Total cholesterol,SYN-CHOL,206.0,mg/dL,125.0,200.0,high,serum,synthetic_ehr,true
+L0117,P0039,2026-01-29T08:23:00+05:30,HbA1c,SYN-HBA1C,7.6,%,4.0,5.6,high,blood,synthetic_ehr,true
+L0118,P0040,2026-01-16T15:24:00+05:30,HbA1c,SYN-HBA1C,8.0,%,4.0,5.6,high,blood,synthetic_ehr,true
+L0119,P0040,2026-01-28T07:22:00+05:30,Triglycerides,SYN-TRIG,303.0,mg/dL,0.0,150.0,high,serum,synthetic_ehr,true
+L0120,P0040,2026-01-30T09:06:00+05:30,LDL cholesterol,SYN-LDL,153.0,mg/dL,0.0,100.0,high,serum,synthetic_ehr,true
+L0121,P0041,2026-01-09T06:47:00+05:30,HDL cholesterol,SYN-HDL,31.0,mg/dL,40.0,100.0,low,serum,synthetic_ehr,true
+L0122,P0041,2026-01-09T13:21:00+05:30,HbA1c,SYN-HBA1C,5.9,%,4.0,5.6,high,blood,synthetic_ehr,true
+L0123,P0041,2026-01-30T09:02:00+05:30,Total cholesterol,SYN-CHOL,242.0,mg/dL,125.0,200.0,high,serum,synthetic_ehr,true
+L0124,P0042,2026-01-06T08:47:00+05:30,HDL cholesterol,SYN-HDL,43.0,mg/dL,40.0,100.0,normal,serum,synthetic_ehr,true
+L0125,P0042,2026-01-13T08:01:00+05:30,LDL cholesterol,SYN-LDL,155.0,mg/dL,0.0,100.0,high,serum,synthetic_ehr,true
+L0126,P0042,2026-01-18T08:57:00+05:30,Fasting plasma glucose,SYN-FPG,117.0,mg/dL,70.0,99.0,high,plasma,synthetic_ehr,true
+L0127,P0043,2026-01-10T08:39:00+05:30,LDL cholesterol,SYN-LDL,111.0,mg/dL,0.0,100.0,high,serum,synthetic_ehr,true
+L0128,P0043,2026-01-13T07:25:00+05:30,Fasting plasma glucose,SYN-FPG,119.0,mg/dL,70.0,99.0,high,plasma,synthetic_ehr,true
+L0129,P0043,2026-01-30T12:52:00+05:30,HbA1c,SYN-HBA1C,6.4,%,4.0,5.6,high,blood,synthetic_ehr,true
+L0130,P0044,2026-01-12T07:17:00+05:30,Fasting plasma glucose,SYN-FPG,120.0,mg/dL,70.0,99.0,high,plasma,synthetic_ehr,true
+L0131,P0044,2026-01-12T07:29:00+05:30,LDL cholesterol,SYN-LDL,86.0,mg/dL,0.0,100.0,normal,serum,synthetic_ehr,true
+L0132,P0044,2026-01-28T07:38:00+05:30,HDL cholesterol,SYN-HDL,38.0,mg/dL,40.0,100.0,low,serum,synthetic_ehr,true
+L0133,P0045,2026-01-03T07:46:00+05:30,Total cholesterol,SYN-CHOL,132.0,mg/dL,125.0,200.0,normal,serum,synthetic_ehr,true
+L0134,P0045,2026-01-04T08:52:00+05:30,HDL cholesterol,SYN-HDL,40.0,mg/dL,40.0,100.0,normal,serum,synthetic_ehr,true
+L0135,P0045,2026-01-18T08:31:00+05:30,Fasting plasma glucose,SYN-FPG,115.0,mg/dL,70.0,99.0,high,plasma,synthetic_ehr,true
+L0136,P0046,2026-01-20T09:02:00+05:30,Total cholesterol,SYN-CHOL,184.0,mg/dL,125.0,200.0,normal,serum,synthetic_ehr,true
+L0137,P0046,2026-01-22T09:05:00+05:30,HDL cholesterol,SYN-HDL,34.0,mg/dL,40.0,100.0,low,serum,synthetic_ehr,true
+L0138,P0046,2026-01-30T07:40:00+05:30,Fasting plasma glucose,SYN-FPG,89.0,mg/dL,70.0,99.0,normal,plasma,synthetic_ehr,true
+L0139,P0047,2026-01-12T09:19:00+05:30,HDL cholesterol,SYN-HDL,40.0,mg/dL,40.0,100.0,normal,serum,synthetic_ehr,true
+L0140,P0047,2026-01-12T09:21:00+05:30,Serum creatinine,SYN-CREAT,1.04,mg/dL,0.7,1.3,normal,serum,synthetic_ehr,true
+L0141,P0047,2026-01-25T06:39:00+05:30,Fasting plasma glucose,SYN-FPG,121.0,mg/dL,70.0,99.0,high,plasma,synthetic_ehr,true
+L0142,P0048,2026-01-12T08:25:00+05:30,Serum creatinine,SYN-CREAT,0.74,mg/dL,0.6,1.1,normal,serum,synthetic_ehr,true
+L0143,P0048,2026-01-19T07:54:00+05:30,Fasting plasma glucose,SYN-FPG,107.0,mg/dL,70.0,99.0,high,plasma,synthetic_ehr,true
+L0144,P0048,2026-01-20T09:29:00+05:30,Total cholesterol,SYN-CHOL,216.0,mg/dL,125.0,200.0,high,serum,synthetic_ehr,true
+L0145,P0049,2026-01-04T08:38:00+05:30,HbA1c,SYN-HBA1C,6.2,%,4.0,5.6,high,blood,synthetic_ehr,true
+L0146,P0049,2026-01-13T06:50:00+05:30,HDL cholesterol,SYN-HDL,44.0,mg/dL,40.0,100.0,normal,serum,synthetic_ehr,true
+L0147,P0049,2026-01-23T08:32:00+05:30,Fasting plasma glucose,SYN-FPG,105.0,mg/dL,70.0,99.0,high,plasma,synthetic_ehr,true
+L0148,P0050,2026-01-15T09:19:00+05:30,Fasting plasma glucose,SYN-FPG,155.0,mg/dL,70.0,99.0,high,plasma,synthetic_ehr,true
+L0149,P0050,2026-01-21T08:16:00+05:30,Triglycerides,SYN-TRIG,79.0,mg/dL,0.0,150.0,normal,serum,synthetic_ehr,true
+L0150,P0050,2026-01-23T07:41:00+05:30,HDL cholesterol,SYN-HDL,30.0,mg/dL,40.0,100.0,low,serum,synthetic_ehr,true
+L0151,P0051,2026-01-08T08:24:00+05:30,Total cholesterol,SYN-CHOL,178.0,mg/dL,125.0,200.0,normal,serum,synthetic_ehr,true
+L0152,P0051,2026-01-15T08:47:00+05:30,Fasting plasma glucose,SYN-FPG,166.0,mg/dL,70.0,99.0,high,plasma,synthetic_ehr,true
+L0153,P0051,2026-01-27T08:22:00+05:30,Serum creatinine,SYN-CREAT,0.71,mg/dL,0.6,1.1,normal,serum,synthetic_ehr,true
+L0154,P0052,2026-01-02T07:50:00+05:30,Serum creatinine,SYN-CREAT,0.79,mg/dL,0.7,1.3,normal,serum,synthetic_ehr,true
+L0155,P0052,2026-01-20T13:28:00+05:30,HbA1c,SYN-HBA1C,10.9,%,4.0,5.6,high,blood,synthetic_ehr,true
+L0156,P0052,2026-01-25T08:01:00+05:30,Fasting plasma glucose,SYN-FPG,168.0,mg/dL,70.0,99.0,high,plasma,synthetic_ehr,true
+L0157,P0053,2026-01-01T07:29:00+05:30,Triglycerides,SYN-TRIG,91.0,mg/dL,0.0,150.0,normal,serum,synthetic_ehr,true
+L0158,P0053,2026-01-14T06:31:00+05:30,Total cholesterol,SYN-CHOL,164.0,mg/dL,125.0,200.0,normal,serum,synthetic_ehr,true
+L0159,P0053,2026-01-25T09:02:00+05:30,HDL cholesterol,SYN-HDL,28.0,mg/dL,40.0,100.0,low,serum,synthetic_ehr,true
+L0160,P0054,2026-01-16T08:27:00+05:30,Triglycerides,SYN-TRIG,191.0,mg/dL,0.0,150.0,high,serum,synthetic_ehr,true
+L0161,P0054,2026-01-16T08:39:00+05:30,LDL cholesterol,SYN-LDL,108.0,mg/dL,0.0,100.0,high,serum,synthetic_ehr,true
+L0162,P0054,2026-01-28T08:12:00+05:30,Total cholesterol,SYN-CHOL,211.0,mg/dL,125.0,200.0,high,serum,synthetic_ehr,true
+L0163,P0055,2026-01-14T15:50:00+05:30,HbA1c,SYN-HBA1C,8.2,%,4.0,5.6,high,blood,synthetic_ehr,true
+L0164,P0055,2026-01-18T09:02:00+05:30,Fasting plasma glucose,SYN-FPG,137.0,mg/dL,70.0,99.0,high,plasma,synthetic_ehr,true
+L0165,P0055,2026-01-30T07:53:00+05:30,HDL cholesterol,SYN-HDL,45.0,mg/dL,40.0,100.0,normal,serum,synthetic_ehr,true
+L0166,P0056,2026-01-10T08:55:00+05:30,Fasting plasma glucose,SYN-FPG,147.0,mg/dL,70.0,99.0,high,plasma,synthetic_ehr,true
+L0167,P0056,2026-01-18T07:32:00+05:30,Serum creatinine,SYN-CREAT,1.39,mg/dL,0.7,1.3,high,serum,synthetic_ehr,true
+L0168,P0056,2026-01-18T15:59:00+05:30,HbA1c,SYN-HBA1C,7.4,%,4.0,5.6,high,blood,synthetic_ehr,true
+L0169,P0057,2026-01-07T08:00:00+05:30,Fasting plasma glucose,SYN-FPG,131.0,mg/dL,70.0,99.0,high,plasma,synthetic_ehr,true
+L0170,P0057,2026-01-16T06:39:00+05:30,HDL cholesterol,SYN-HDL,39.0,mg/dL,40.0,100.0,low,serum,synthetic_ehr,true
+L0171,P0057,2026-01-30T09:17:00+05:30,Serum creatinine,SYN-CREAT,0.81,mg/dL,0.6,1.1,normal,serum,synthetic_ehr,true
+L0172,P0058,2026-01-19T09:21:00+05:30,Triglycerides,SYN-TRIG,221.0,mg/dL,0.0,150.0,high,serum,synthetic_ehr,true
+L0173,P0058,2026-01-25T12:48:00+05:30,HbA1c,SYN-HBA1C,6.3,%,4.0,5.6,high,blood,synthetic_ehr,true
+L0174,P0058,2026-01-26T07:05:00+05:30,Fasting plasma glucose,SYN-FPG,102.0,mg/dL,70.0,99.0,high,plasma,synthetic_ehr,true
+L0175,P0059,2026-01-09T12:25:00+05:30,HbA1c,SYN-HBA1C,6.1,%,4.0,5.6,high,blood,synthetic_ehr,true
+L0176,P0059,2026-01-21T06:50:00+05:30,LDL cholesterol,SYN-LDL,162.0,mg/dL,0.0,100.0,high,serum,synthetic_ehr,true
+L0177,P0059,2026-01-23T07:02:00+05:30,Fasting plasma glucose,SYN-FPG,69.0,mg/dL,70.0,99.0,low,plasma,synthetic_ehr,true
+L0178,P0060,2026-01-08T14:42:00+05:30,HbA1c,SYN-HBA1C,8.3,%,4.0,5.6,high,blood,synthetic_ehr,true
+L0179,P0060,2026-01-15T07:37:00+05:30,Serum creatinine,SYN-CREAT,0.85,mg/dL,0.7,1.3,normal,serum,synthetic_ehr,true
+L0180,P0060,2026-01-18T08:04:00+05:30,Total cholesterol,SYN-CHOL,189.0,mg/dL,125.0,200.0,normal,serum,synthetic_ehr,true
+L0181,P0061,2026-01-18T07:36:00+05:30,Serum creatinine,SYN-CREAT,1.22,mg/dL,0.7,1.3,normal,serum,synthetic_ehr,true
+L0182,P0061,2026-01-24T08:07:00+05:30,HDL cholesterol,SYN-HDL,51.0,mg/dL,40.0,100.0,normal,serum,synthetic_ehr,true
+L0183,P0061,2026-01-27T08:24:00+05:30,LDL cholesterol,SYN-LDL,110.0,mg/dL,0.0,100.0,high,serum,synthetic_ehr,true
+L0184,P0062,2026-01-05T07:23:00+05:30,Serum creatinine,SYN-CREAT,0.67,mg/dL,0.6,1.1,normal,serum,synthetic_ehr,true
+L0185,P0062,2026-01-13T07:10:00+05:30,HDL cholesterol,SYN-HDL,47.0,mg/dL,40.0,100.0,normal,serum,synthetic_ehr,true
+L0186,P0062,2026-01-21T08:06:00+05:30,Total cholesterol,SYN-CHOL,179.0,mg/dL,125.0,200.0,normal,serum,synthetic_ehr,true
+L0187,P0063,2026-01-11T08:35:00+05:30,Fasting plasma glucose,SYN-FPG,98.0,mg/dL,70.0,99.0,normal,plasma,synthetic_ehr,true
+L0188,P0063,2026-01-14T09:29:00+05:30,Serum creatinine,SYN-CREAT,1.09,mg/dL,0.7,1.3,normal,serum,synthetic_ehr,true
+L0189,P0063,2026-01-19T12:16:00+05:30,HbA1c,SYN-HBA1C,5.8,%,4.0,5.6,high,blood,synthetic_ehr,true
+L0190,P0064,2026-01-21T13:53:00+05:30,HbA1c,SYN-HBA1C,8.0,%,4.0,5.6,high,blood,synthetic_ehr,true
+L0191,P0064,2026-01-25T08:54:00+05:30,Serum creatinine,SYN-CREAT,0.55,mg/dL,0.6,1.1,low,serum,synthetic_ehr,true
+L0192,P0064,2026-01-26T06:33:00+05:30,Fasting plasma glucose,SYN-FPG,139.0,mg/dL,70.0,99.0,high,plasma,synthetic_ehr,true
+L0193,P0065,2026-01-10T08:05:00+05:30,Fasting plasma glucose,SYN-FPG,109.0,mg/dL,70.0,99.0,high,plasma,synthetic_ehr,true
+L0194,P0065,2026-01-23T09:11:00+05:30,Serum creatinine,SYN-CREAT,0.86,mg/dL,0.6,1.1,normal,serum,synthetic_ehr,true
+L0195,P0065,2026-01-27T11:25:00+05:30,HbA1c,SYN-HBA1C,6.9,%,4.0,5.6,high,blood,synthetic_ehr,true
+L0196,P0066,2026-01-08T07:11:00+05:30,Fasting plasma glucose,SYN-FPG,143.0,mg/dL,70.0,99.0,high,plasma,synthetic_ehr,true
+L0197,P0066,2026-01-12T12:58:00+05:30,HbA1c,SYN-HBA1C,7.9,%,4.0,5.6,high,blood,synthetic_ehr,true
+L0198,P0066,2026-01-22T08:07:00+05:30,HDL cholesterol,SYN-HDL,58.0,mg/dL,40.0,100.0,normal,serum,synthetic_ehr,true
+L0199,P0067,2026-01-16T07:37:00+05:30,Fasting plasma glucose,SYN-FPG,139.0,mg/dL,70.0,99.0,high,plasma,synthetic_ehr,true
+L0200,P0067,2026-01-18T12:35:00+05:30,HbA1c,SYN-HBA1C,7.5,%,4.0,5.6,high,blood,synthetic_ehr,true
+L0201,P0067,2026-01-30T06:39:00+05:30,Serum creatinine,SYN-CREAT,0.81,mg/dL,0.6,1.1,normal,serum,synthetic_ehr,true
+L0202,P0068,2026-01-04T08:30:00+05:30,Serum creatinine,SYN-CREAT,1.18,mg/dL,0.7,1.3,normal,serum,synthetic_ehr,true
+L0203,P0068,2026-01-19T09:25:00+05:30,HbA1c,SYN-HBA1C,7.7,%,4.0,5.6,high,blood,synthetic_ehr,true
+L0204,P0068,2026-01-23T06:49:00+05:30,LDL cholesterol,SYN-LDL,87.0,mg/dL,0.0,100.0,normal,serum,synthetic_ehr,true
+L0205,P0069,2026-01-26T07:56:00+05:30,Fasting plasma glucose,SYN-FPG,167.0,mg/dL,70.0,99.0,high,plasma,synthetic_ehr,true
+L0206,P0069,2026-01-27T08:54:00+05:30,Triglycerides,SYN-TRIG,125.0,mg/dL,0.0,150.0,normal,serum,synthetic_ehr,true
+L0207,P0069,2026-01-29T10:35:00+05:30,HbA1c,SYN-HBA1C,9.4,%,4.0,5.6,high,blood,synthetic_ehr,true
+L0208,P0070,2026-01-07T08:22:00+05:30,Serum creatinine,SYN-CREAT,1.09,mg/dL,0.7,1.3,normal,serum,synthetic_ehr,true
+L0209,P0070,2026-01-24T08:55:00+05:30,Triglycerides,SYN-TRIG,174.0,mg/dL,0.0,150.0,high,serum,synthetic_ehr,true
+L0210,P0070,2026-01-24T09:04:00+05:30,LDL cholesterol,SYN-LDL,100.0,mg/dL,0.0,100.0,normal,serum,synthetic_ehr,true
+L0211,P0071,2026-01-02T10:50:00+05:30,HbA1c,SYN-HBA1C,8.0,%,4.0,5.6,high,blood,synthetic_ehr,true
+L0212,P0071,2026-01-04T07:01:00+05:30,Total cholesterol,SYN-CHOL,169.0,mg/dL,125.0,200.0,normal,serum,synthetic_ehr,true
+L0213,P0071,2026-01-21T07:36:00+05:30,LDL cholesterol,SYN-LDL,146.0,mg/dL,0.0,100.0,high,serum,synthetic_ehr,true
+L0214,P0072,2026-01-15T15:31:00+05:30,HbA1c,SYN-HBA1C,6.0,%,4.0,5.6,high,blood,synthetic_ehr,true
+L0215,P0072,2026-01-28T09:13:00+05:30,Total cholesterol,SYN-CHOL,181.0,mg/dL,125.0,200.0,normal,serum,synthetic_ehr,true
+L0216,P0072,2026-01-30T08:00:00+05:30,Fasting plasma glucose,SYN-FPG,109.0,mg/dL,70.0,99.0,high,plasma,synthetic_ehr,true
+L0217,P0073,2026-01-01T08:06:00+05:30,LDL cholesterol,SYN-LDL,51.0,mg/dL,0.0,100.0,normal,serum,synthetic_ehr,true
+L0218,P0073,2026-01-02T08:06:00+05:30,Serum creatinine,SYN-CREAT,0.48,mg/dL,0.6,1.1,low,serum,synthetic_ehr,true
+L0219,P0073,2026-01-11T07:45:00+05:30,HDL cholesterol,SYN-HDL,51.0,mg/dL,40.0,100.0,normal,serum,synthetic_ehr,true
+L0220,P0074,2026-01-15T09:23:00+05:30,Fasting plasma glucose,SYN-FPG,133.0,mg/dL,70.0,99.0,high,plasma,synthetic_ehr,true
+L0221,P0074,2026-01-20T07:59:00+05:30,LDL cholesterol,SYN-LDL,130.0,mg/dL,0.0,100.0,high,serum,synthetic_ehr,true
+L0222,P0074,2026-01-29T12:20:00+05:30,HbA1c,SYN-HBA1C,8.0,%,4.0,5.6,high,blood,synthetic_ehr,true
+L0223,P0075,2026-01-03T08:03:00+05:30,Triglycerides,SYN-TRIG,249.0,mg/dL,0.0,150.0,high,serum,synthetic_ehr,true
+L0224,P0075,2026-01-08T08:29:00+05:30,LDL cholesterol,SYN-LDL,116.0,mg/dL,0.0,100.0,high,serum,synthetic_ehr,true
+L0225,P0075,2026-01-09T09:05:00+05:30,HDL cholesterol,SYN-HDL,43.0,mg/dL,40.0,100.0,normal,serum,synthetic_ehr,true
+L0226,P0076,2026-01-04T09:21:00+05:30,HDL cholesterol,SYN-HDL,32.0,mg/dL,40.0,100.0,low,serum,synthetic_ehr,true
+L0227,P0076,2026-01-23T14:08:00+05:30,HbA1c,SYN-HBA1C,7.4,%,4.0,5.6,high,blood,synthetic_ehr,true
+L0228,P0076,2026-01-28T06:37:00+05:30,Triglycerides,SYN-TRIG,150.0,mg/dL,0.0,150.0,normal,serum,synthetic_ehr,true
+L0229,P0077,2026-01-14T07:22:00+05:30,LDL cholesterol,SYN-LDL,105.0,mg/dL,0.0,100.0,high,serum,synthetic_ehr,true
+L0230,P0077,2026-01-24T08:18:00+05:30,HDL cholesterol,SYN-HDL,60.0,mg/dL,40.0,100.0,normal,serum,synthetic_ehr,true
+L0231,P0077,2026-01-30T06:31:00+05:30,Fasting plasma glucose,SYN-FPG,146.0,mg/dL,70.0,99.0,high,plasma,synthetic_ehr,true
+L0232,P0078,2026-01-03T07:39:00+05:30,Total cholesterol,SYN-CHOL,177.0,mg/dL,125.0,200.0,normal,serum,synthetic_ehr,true
+L0233,P0078,2026-01-06T07:53:00+05:30,Serum creatinine,SYN-CREAT,0.55,mg/dL,0.6,1.1,low,serum,synthetic_ehr,true
+L0234,P0078,2026-01-17T15:43:00+05:30,HbA1c,SYN-HBA1C,5.6,%,4.0,5.6,normal,blood,synthetic_ehr,true
+L0235,P0079,2026-01-13T06:57:00+05:30,Fasting plasma glucose,SYN-FPG,122.0,mg/dL,70.0,99.0,high,plasma,synthetic_ehr,true
+L0236,P0079,2026-01-14T09:01:00+05:30,Serum creatinine,SYN-CREAT,0.72,mg/dL,0.7,1.3,normal,serum,synthetic_ehr,true
+L0237,P0079,2026-01-21T09:03:00+05:30,HDL cholesterol,SYN-HDL,31.0,mg/dL,40.0,100.0,low,serum,synthetic_ehr,true
+L0238,P0080,2026-01-01T08:03:00+05:30,Triglycerides,SYN-TRIG,258.0,mg/dL,0.0,150.0,high,serum,synthetic_ehr,true
+L0239,P0080,2026-01-15T07:10:00+05:30,Fasting plasma glucose,SYN-FPG,104.0,mg/dL,70.0,99.0,high,plasma,synthetic_ehr,true
+L0240,P0080,2026-01-15T08:17:00+05:30,HDL cholesterol,SYN-HDL,37.0,mg/dL,40.0,100.0,low,serum,synthetic_ehr,true
+L0241,P0081,2026-01-02T09:21:00+05:30,Fasting plasma glucose,SYN-FPG,114.0,mg/dL,70.0,99.0,high,plasma,synthetic_ehr,true
+L0242,P0081,2026-01-07T06:30:00+05:30,HDL cholesterol,SYN-HDL,28.0,mg/dL,40.0,100.0,low,serum,synthetic_ehr,true
+L0243,P0081,2026-01-12T07:56:00+05:30,Serum creatinine,SYN-CREAT,1.01,mg/dL,0.7,1.3,normal,serum,synthetic_ehr,true
+L0244,P0082,2026-01-08T12:51:00+05:30,HbA1c,SYN-HBA1C,8.5,%,4.0,5.6,high,blood,synthetic_ehr,true
+L0245,P0082,2026-01-15T06:43:00+05:30,Total cholesterol,SYN-CHOL,175.0,mg/dL,125.0,200.0,normal,serum,synthetic_ehr,true
+L0246,P0082,2026-01-15T07:46:00+05:30,Fasting plasma glucose,SYN-FPG,134.0,mg/dL,70.0,99.0,high,plasma,synthetic_ehr,true
+L0247,P0083,2026-01-02T11:46:00+05:30,HbA1c,SYN-HBA1C,7.1,%,4.0,5.6,high,blood,synthetic_ehr,true
+L0248,P0083,2026-01-28T07:03:00+05:30,Fasting plasma glucose,SYN-FPG,100.0,mg/dL,70.0,99.0,high,plasma,synthetic_ehr,true
+L0249,P0083,2026-01-28T08:42:00+05:30,Serum creatinine,SYN-CREAT,0.73,mg/dL,0.6,1.1,normal,serum,synthetic_ehr,true
+L0250,P0084,2026-01-06T08:50:00+05:30,HDL cholesterol,SYN-HDL,37.0,mg/dL,40.0,100.0,low,serum,synthetic_ehr,true
+L0251,P0084,2026-01-23T07:02:00+05:30,LDL cholesterol,SYN-LDL,135.0,mg/dL,0.0,100.0,high,serum,synthetic_ehr,true
+L0252,P0084,2026-01-24T07:14:00+05:30,Fasting plasma glucose,SYN-FPG,98.0,mg/dL,70.0,99.0,normal,plasma,synthetic_ehr,true
+L0253,P0085,2026-01-06T07:33:00+05:30,Fasting plasma glucose,SYN-FPG,140.0,mg/dL,70.0,99.0,high,plasma,synthetic_ehr,true
+L0254,P0085,2026-01-10T07:40:00+05:30,Serum creatinine,SYN-CREAT,1.24,mg/dL,0.7,1.3,normal,serum,synthetic_ehr,true
+L0255,P0085,2026-01-23T07:05:00+05:30,HDL cholesterol,SYN-HDL,48.0,mg/dL,40.0,100.0,normal,serum,synthetic_ehr,true
+L0256,P0086,2026-01-08T08:28:00+05:30,HDL cholesterol,SYN-HDL,26.0,mg/dL,40.0,100.0,low,serum,synthetic_ehr,true
+L0257,P0086,2026-01-13T12:06:00+05:30,HbA1c,SYN-HBA1C,8.3,%,4.0,5.6,high,blood,synthetic_ehr,true
+L0258,P0086,2026-01-20T08:45:00+05:30,Fasting plasma glucose,SYN-FPG,117.0,mg/dL,70.0,99.0,high,plasma,synthetic_ehr,true
+L0259,P0087,2026-01-11T15:27:00+05:30,HbA1c,SYN-HBA1C,7.3,%,4.0,5.6,high,blood,synthetic_ehr,true
+L0260,P0087,2026-01-14T09:23:00+05:30,Fasting plasma glucose,SYN-FPG,129.0,mg/dL,70.0,99.0,high,plasma,synthetic_ehr,true
+L0261,P0087,2026-01-16T07:15:00+05:30,HDL cholesterol,SYN-HDL,44.0,mg/dL,40.0,100.0,normal,serum,synthetic_ehr,true
+L0262,P0088,2026-01-18T08:43:00+05:30,Fasting plasma glucose,SYN-FPG,105.0,mg/dL,70.0,99.0,high,plasma,synthetic_ehr,true
+L0263,P0088,2026-01-21T07:58:00+05:30,HDL cholesterol,SYN-HDL,37.0,mg/dL,40.0,100.0,low,serum,synthetic_ehr,true
+L0264,P0088,2026-01-29T08:08:00+05:30,Serum creatinine,SYN-CREAT,0.87,mg/dL,0.7,1.3,normal,serum,synthetic_ehr,true
+L0265,P0089,2026-01-02T06:43:00+05:30,Total cholesterol,SYN-CHOL,191.0,mg/dL,125.0,200.0,normal,serum,synthetic_ehr,true
+L0266,P0089,2026-01-02T10:14:00+05:30,HbA1c,SYN-HBA1C,5.6,%,4.0,5.6,normal,blood,synthetic_ehr,true
+L0267,P0089,2026-01-15T07:14:00+05:30,LDL cholesterol,SYN-LDL,107.0,mg/dL,0.0,100.0,high,serum,synthetic_ehr,true
+L0268,P0090,2026-01-13T08:25:00+05:30,HDL cholesterol,SYN-HDL,30.0,mg/dL,40.0,100.0,low,serum,synthetic_ehr,true
+L0269,P0090,2026-01-25T09:05:00+05:30,Fasting plasma glucose,SYN-FPG,170.0,mg/dL,70.0,99.0,high,plasma,synthetic_ehr,true
+L0270,P0090,2026-01-28T08:26:00+05:30,Triglycerides,SYN-TRIG,211.0,mg/dL,0.0,150.0,high,serum,synthetic_ehr,true
+L0271,P0091,2026-01-06T07:11:00+05:30,Fasting plasma glucose,SYN-FPG,87.0,mg/dL,70.0,99.0,normal,plasma,synthetic_ehr,true
+L0272,P0091,2026-01-10T07:05:00+05:30,HDL cholesterol,SYN-HDL,30.0,mg/dL,40.0,100.0,low,serum,synthetic_ehr,true
+L0273,P0091,2026-01-11T07:18:00+05:30,Serum creatinine,SYN-CREAT,0.89,mg/dL,0.6,1.1,normal,serum,synthetic_ehr,true
+L0274,P0092,2026-01-03T09:12:00+05:30,Triglycerides,SYN-TRIG,130.0,mg/dL,0.0,150.0,normal,serum,synthetic_ehr,true
+L0275,P0092,2026-01-27T09:04:00+05:30,Serum creatinine,SYN-CREAT,0.95,mg/dL,0.6,1.1,normal,serum,synthetic_ehr,true
+L0276,P0092,2026-01-28T06:48:00+05:30,Fasting plasma glucose,SYN-FPG,139.0,mg/dL,70.0,99.0,high,plasma,synthetic_ehr,true
+L0277,P0093,2026-01-10T07:17:00+05:30,Fasting plasma glucose,SYN-FPG,136.0,mg/dL,70.0,99.0,high,plasma,synthetic_ehr,true
+L0278,P0093,2026-01-30T07:37:00+05:30,LDL cholesterol,SYN-LDL,104.0,mg/dL,0.0,100.0,high,serum,synthetic_ehr,true
+L0279,P0093,2026-01-30T08:00:00+05:30,Total cholesterol,SYN-CHOL,250.0,mg/dL,125.0,200.0,high,serum,synthetic_ehr,true
+L0280,P0094,2026-01-15T07:15:00+05:30,HDL cholesterol,SYN-HDL,48.0,mg/dL,40.0,100.0,normal,serum,synthetic_ehr,true
+L0281,P0094,2026-01-27T06:59:00+05:30,Total cholesterol,SYN-CHOL,195.0,mg/dL,125.0,200.0,normal,serum,synthetic_ehr,true
+L0282,P0094,2026-01-29T15:52:00+05:30,HbA1c,SYN-HBA1C,8.6,%,4.0,5.6,high,blood,synthetic_ehr,true
+L0283,P0095,2026-01-02T08:43:00+05:30,Total cholesterol,SYN-CHOL,205.0,mg/dL,125.0,200.0,high,serum,synthetic_ehr,true
+L0284,P0095,2026-01-03T11:52:00+05:30,HbA1c,SYN-HBA1C,7.2,%,4.0,5.6,high,blood,synthetic_ehr,true
+L0285,P0095,2026-01-22T07:10:00+05:30,LDL cholesterol,SYN-LDL,108.0,mg/dL,0.0,100.0,high,serum,synthetic_ehr,true
+L0286,P0096,2026-01-20T07:33:00+05:30,Fasting plasma glucose,SYN-FPG,105.0,mg/dL,70.0,99.0,high,plasma,synthetic_ehr,true
+L0287,P0096,2026-01-24T11:19:00+05:30,HbA1c,SYN-HBA1C,7.8,%,4.0,5.6,high,blood,synthetic_ehr,true
+L0288,P0096,2026-01-26T08:02:00+05:30,LDL cholesterol,SYN-LDL,157.0,mg/dL,0.0,100.0,high,serum,synthetic_ehr,true
+L0289,P0097,2026-01-08T07:31:00+05:30,Triglycerides,SYN-TRIG,140.0,mg/dL,0.0,150.0,normal,serum,synthetic_ehr,true
+L0290,P0097,2026-01-23T14:57:00+05:30,HbA1c,SYN-HBA1C,8.1,%,4.0,5.6,high,blood,synthetic_ehr,true
+L0291,P0097,2026-01-27T08:55:00+05:30,Total cholesterol,SYN-CHOL,191.0,mg/dL,125.0,200.0,normal,serum,synthetic_ehr,true
+L0292,P0098,2026-01-05T07:43:00+05:30,Serum creatinine,SYN-CREAT,0.86,mg/dL,0.6,1.1,normal,serum,synthetic_ehr,true
+L0293,P0098,2026-01-21T06:31:00+05:30,HDL cholesterol,SYN-HDL,67.0,mg/dL,40.0,100.0,normal,serum,synthetic_ehr,true
+L0294,P0098,2026-01-21T08:26:00+05:30,LDL cholesterol,SYN-LDL,109.0,mg/dL,0.0,100.0,high,serum,synthetic_ehr,true
+L0295,P0099,2026-01-01T10:36:00+05:30,HbA1c,SYN-HBA1C,7.3,%,4.0,5.6,high,blood,synthetic_ehr,true
+L0296,P0099,2026-01-16T08:35:00+05:30,HDL cholesterol,SYN-HDL,56.0,mg/dL,40.0,100.0,normal,serum,synthetic_ehr,true
+L0297,P0099,2026-01-28T08:15:00+05:30,Triglycerides,SYN-TRIG,75.0,mg/dL,0.0,150.0,normal,serum,synthetic_ehr,true
+L0298,P0100,2026-01-12T07:22:00+05:30,Fasting plasma glucose,SYN-FPG,103.0,mg/dL,70.0,99.0,high,plasma,synthetic_ehr,true
+L0299,P0100,2026-01-13T07:25:00+05:30,LDL cholesterol,SYN-LDL,99.0,mg/dL,0.0,100.0,normal,serum,synthetic_ehr,true
+L0300,P0100,2026-01-26T15:43:00+05:30,HbA1c,SYN-HBA1C,6.4,%,4.0,5.6,high,blood,synthetic_ehr,true
+L0301,P0101,2026-01-03T11:27:00+05:30,HbA1c,SYN-HBA1C,5.5,%,4.0,5.6,normal,blood,synthetic_ehr,true
+L0302,P0101,2026-01-04T09:22:00+05:30,Total cholesterol,SYN-CHOL,169.0,mg/dL,125.0,200.0,normal,serum,synthetic_ehr,true
+L0303,P0101,2026-01-06T09:14:00+05:30,HDL cholesterol,SYN-HDL,62.0,mg/dL,40.0,100.0,normal,serum,synthetic_ehr,true
+L0304,P0102,2026-01-20T07:45:00+05:30,Fasting plasma glucose,SYN-FPG,100.0,mg/dL,70.0,99.0,high,plasma,synthetic_ehr,true
+L0305,P0102,2026-01-28T13:25:00+05:30,HbA1c,SYN-HBA1C,4.9,%,4.0,5.6,normal,blood,synthetic_ehr,true
+L0306,P0102,2026-01-29T07:06:00+05:30,Total cholesterol,SYN-CHOL,184.0,mg/dL,125.0,200.0,normal,serum,synthetic_ehr,true
+L0307,P0103,2026-01-09T08:33:00+05:30,HDL cholesterol,SYN-HDL,46.0,mg/dL,40.0,100.0,normal,serum,synthetic_ehr,true
+L0308,P0103,2026-01-16T07:12:00+05:30,Total cholesterol,SYN-CHOL,146.0,mg/dL,125.0,200.0,normal,serum,synthetic_ehr,true
+L0309,P0103,2026-01-20T07:05:00+05:30,Serum creatinine,SYN-CREAT,0.84,mg/dL,0.6,1.1,normal,serum,synthetic_ehr,true
+L0310,P0104,2026-01-01T07:22:00+05:30,HDL cholesterol,SYN-HDL,49.0,mg/dL,40.0,100.0,normal,serum,synthetic_ehr,true
+L0311,P0104,2026-01-06T07:55:00+05:30,Total cholesterol,SYN-CHOL,208.0,mg/dL,125.0,200.0,high,serum,synthetic_ehr,true
+L0312,P0104,2026-01-23T14:25:00+05:30,HbA1c,SYN-HBA1C,5.5,%,4.0,5.6,normal,blood,synthetic_ehr,true
+L0313,P0105,2026-01-03T11:59:00+05:30,HbA1c,SYN-HBA1C,5.4,%,4.0,5.6,normal,blood,synthetic_ehr,true
+L0314,P0105,2026-01-13T06:50:00+05:30,Triglycerides,SYN-TRIG,99.0,mg/dL,0.0,150.0,normal,serum,synthetic_ehr,true
+L0315,P0105,2026-01-23T09:17:00+05:30,Serum creatinine,SYN-CREAT,0.81,mg/dL,0.6,1.1,normal,serum,synthetic_ehr,true
+L0316,P0106,2026-01-04T07:07:00+05:30,HDL cholesterol,SYN-HDL,40.0,mg/dL,40.0,100.0,normal,serum,synthetic_ehr,true
+L0317,P0106,2026-01-04T07:52:00+05:30,Triglycerides,SYN-TRIG,223.0,mg/dL,0.0,150.0,high,serum,synthetic_ehr,true
+L0318,P0106,2026-01-20T08:10:00+05:30,Serum creatinine,SYN-CREAT,0.97,mg/dL,0.7,1.3,normal,serum,synthetic_ehr,true
+L0319,P0107,2026-01-09T06:54:00+05:30,Fasting plasma glucose,SYN-FPG,74.0,mg/dL,70.0,99.0,normal,plasma,synthetic_ehr,true
+L0320,P0107,2026-01-18T07:32:00+05:30,Total cholesterol,SYN-CHOL,225.0,mg/dL,125.0,200.0,high,serum,synthetic_ehr,true
+L0321,P0107,2026-01-30T08:15:00+05:30,Serum creatinine,SYN-CREAT,1.07,mg/dL,0.7,1.3,normal,serum,synthetic_ehr,true
+L0322,P0108,2026-01-04T08:35:00+05:30,Total cholesterol,SYN-CHOL,174.0,mg/dL,125.0,200.0,normal,serum,synthetic_ehr,true
+L0323,P0108,2026-01-09T08:13:00+05:30,HDL cholesterol,SYN-HDL,50.0,mg/dL,40.0,100.0,normal,serum,synthetic_ehr,true
+L0324,P0108,2026-01-20T15:40:00+05:30,HbA1c,SYN-HBA1C,4.7,%,4.0,5.6,normal,blood,synthetic_ehr,true
+L0325,P0109,2026-01-12T09:13:00+05:30,Fasting plasma glucose,SYN-FPG,69.0,mg/dL,70.0,99.0,low,plasma,synthetic_ehr,true
+L0326,P0109,2026-01-14T08:01:00+05:30,HDL cholesterol,SYN-HDL,42.0,mg/dL,40.0,100.0,normal,serum,synthetic_ehr,true
+L0327,P0109,2026-01-17T08:37:00+05:30,LDL cholesterol,SYN-LDL,137.0,mg/dL,0.0,100.0,high,serum,synthetic_ehr,true
+L0328,P0110,2026-01-15T07:17:00+05:30,Fasting plasma glucose,SYN-FPG,74.0,mg/dL,70.0,99.0,normal,plasma,synthetic_ehr,true
+L0329,P0110,2026-01-19T07:56:00+05:30,HDL cholesterol,SYN-HDL,33.0,mg/dL,40.0,100.0,low,serum,synthetic_ehr,true
+L0330,P0110,2026-01-22T07:49:00+05:30,Triglycerides,SYN-TRIG,79.0,mg/dL,0.0,150.0,normal,serum,synthetic_ehr,true
+L0331,P0111,2026-01-01T09:09:00+05:30,Fasting plasma glucose,SYN-FPG,112.0,mg/dL,70.0,99.0,high,plasma,synthetic_ehr,true
+L0332,P0111,2026-01-09T07:07:00+05:30,Serum creatinine,SYN-CREAT,1.09,mg/dL,0.7,1.3,normal,serum,synthetic_ehr,true
+L0333,P0111,2026-01-14T07:54:00+05:30,HDL cholesterol,SYN-HDL,49.0,mg/dL,40.0,100.0,normal,serum,synthetic_ehr,true
+L0334,P0112,2026-01-02T13:11:00+05:30,HbA1c,SYN-HBA1C,5.4,%,4.0,5.6,normal,blood,synthetic_ehr,true
+L0335,P0112,2026-01-05T09:02:00+05:30,HDL cholesterol,SYN-HDL,37.0,mg/dL,40.0,100.0,low,serum,synthetic_ehr,true
+L0336,P0112,2026-01-05T09:20:00+05:30,Fasting plasma glucose,SYN-FPG,92.0,mg/dL,70.0,99.0,normal,plasma,synthetic_ehr,true
+L0337,P0113,2026-01-17T08:48:00+05:30,Serum creatinine,SYN-CREAT,1.02,mg/dL,0.7,1.3,normal,serum,synthetic_ehr,true
+L0338,P0113,2026-01-23T09:12:00+05:30,Fasting plasma glucose,SYN-FPG,71.0,mg/dL,70.0,99.0,normal,plasma,synthetic_ehr,true
+L0339,P0113,2026-01-27T07:07:00+05:30,Total cholesterol,SYN-CHOL,192.0,mg/dL,125.0,200.0,normal,serum,synthetic_ehr,true
+L0340,P0114,2026-01-21T09:21:00+05:30,LDL cholesterol,SYN-LDL,89.0,mg/dL,0.0,100.0,normal,serum,synthetic_ehr,true
+L0341,P0114,2026-01-25T08:33:00+05:30,HbA1c,SYN-HBA1C,5.6,%,4.0,5.6,normal,blood,synthetic_ehr,true
+L0342,P0114,2026-01-28T08:17:00+05:30,Serum creatinine,SYN-CREAT,1.5,mg/dL,0.7,1.3,high,serum,synthetic_ehr,true
+L0343,P0115,2026-01-03T13:09:00+05:30,HbA1c,SYN-HBA1C,4.6,%,4.0,5.6,normal,blood,synthetic_ehr,true
+L0344,P0115,2026-01-11T07:39:00+05:30,HDL cholesterol,SYN-HDL,37.0,mg/dL,40.0,100.0,low,serum,synthetic_ehr,true
+L0345,P0115,2026-01-26T06:50:00+05:30,Fasting plasma glucose,SYN-FPG,70.0,mg/dL,70.0,99.0,normal,plasma,synthetic_ehr,true
+L0346,P0116,2026-01-03T08:19:00+05:30,HDL cholesterol,SYN-HDL,44.0,mg/dL,40.0,100.0,normal,serum,synthetic_ehr,true
+L0347,P0116,2026-01-25T06:50:00+05:30,Triglycerides,SYN-TRIG,124.0,mg/dL,0.0,150.0,normal,serum,synthetic_ehr,true
+L0348,P0116,2026-01-26T08:52:00+05:30,LDL cholesterol,SYN-LDL,108.0,mg/dL,0.0,100.0,high,serum,synthetic_ehr,true
+L0349,P0117,2026-01-08T07:54:00+05:30,LDL cholesterol,SYN-LDL,84.0,mg/dL,0.0,100.0,normal,serum,synthetic_ehr,true
+L0350,P0117,2026-01-12T07:14:00+05:30,Triglycerides,SYN-TRIG,107.0,mg/dL,0.0,150.0,normal,serum,synthetic_ehr,true
+L0351,P0117,2026-01-23T07:22:00+05:30,Fasting plasma glucose,SYN-FPG,125.0,mg/dL,70.0,99.0,high,plasma,synthetic_ehr,true
+L0352,P0118,2026-01-09T08:29:00+05:30,Serum creatinine,SYN-CREAT,1.11,mg/dL,0.7,1.3,normal,serum,synthetic_ehr,true
+L0353,P0118,2026-01-20T07:03:00+05:30,Fasting plasma glucose,SYN-FPG,81.0,mg/dL,70.0,99.0,normal,plasma,synthetic_ehr,true
+L0354,P0118,2026-01-24T08:41:00+05:30,HbA1c,SYN-HBA1C,5.7,%,4.0,5.6,high,blood,synthetic_ehr,true
+L0355,P0119,2026-01-03T12:02:00+05:30,HbA1c,SYN-HBA1C,5.2,%,4.0,5.6,normal,blood,synthetic_ehr,true
+L0356,P0119,2026-01-12T08:35:00+05:30,Fasting plasma glucose,SYN-FPG,105.0,mg/dL,70.0,99.0,high,plasma,synthetic_ehr,true
+L0357,P0119,2026-01-30T08:09:00+05:30,Total cholesterol,SYN-CHOL,210.0,mg/dL,125.0,200.0,high,serum,synthetic_ehr,true
+L0358,P0120,2026-01-05T07:53:00+05:30,Triglycerides,SYN-TRIG,89.0,mg/dL,0.0,150.0,normal,serum,synthetic_ehr,true
+L0359,P0120,2026-01-15T07:27:00+05:30,LDL cholesterol,SYN-LDL,86.0,mg/dL,0.0,100.0,normal,serum,synthetic_ehr,true
+L0360,P0120,2026-01-28T07:30:00+05:30,Serum creatinine,SYN-CREAT,0.82,mg/dL,0.6,1.1,normal,serum,synthetic_ehr,true
+L0361,P0121,2026-01-07T07:01:00+05:30,Fasting plasma glucose,SYN-FPG,76.0,mg/dL,70.0,99.0,normal,plasma,synthetic_ehr,true
+L0362,P0121,2026-01-09T08:57:00+05:30,LDL cholesterol,SYN-LDL,143.0,mg/dL,0.0,100.0,high,serum,synthetic_ehr,true
+L0363,P0121,2026-01-27T08:33:00+05:30,HbA1c,SYN-HBA1C,5.2,%,4.0,5.6,normal,blood,synthetic_ehr,true
+L0364,P0122,2026-01-15T06:55:00+05:30,Serum creatinine,SYN-CREAT,0.76,mg/dL,0.7,1.3,normal,serum,synthetic_ehr,true
+L0365,P0122,2026-01-15T07:55:00+05:30,Total cholesterol,SYN-CHOL,162.0,mg/dL,125.0,200.0,normal,serum,synthetic_ehr,true
+L0366,P0122,2026-01-28T06:43:00+05:30,Fasting plasma glucose,SYN-FPG,97.0,mg/dL,70.0,99.0,normal,plasma,synthetic_ehr,true
+L0367,P0123,2026-01-16T08:16:00+05:30,HbA1c,SYN-HBA1C,5.3,%,4.0,5.6,normal,blood,synthetic_ehr,true
+L0368,P0123,2026-01-22T08:53:00+05:30,Total cholesterol,SYN-CHOL,147.0,mg/dL,125.0,200.0,normal,serum,synthetic_ehr,true
+L0369,P0123,2026-01-27T07:29:00+05:30,Fasting plasma glucose,SYN-FPG,97.0,mg/dL,70.0,99.0,normal,plasma,synthetic_ehr,true
+L0370,P0124,2026-01-17T08:44:00+05:30,Fasting plasma glucose,SYN-FPG,89.0,mg/dL,70.0,99.0,normal,plasma,synthetic_ehr,true
+L0371,P0124,2026-01-27T09:08:00+05:30,Total cholesterol,SYN-CHOL,171.0,mg/dL,125.0,200.0,normal,serum,synthetic_ehr,true
+L0372,P0124,2026-01-28T09:22:00+05:30,LDL cholesterol,SYN-LDL,59.0,mg/dL,0.0,100.0,normal,serum,synthetic_ehr,true
+L0373,P0125,2026-01-03T06:33:00+05:30,Serum creatinine,SYN-CREAT,0.62,mg/dL,0.6,1.1,normal,serum,synthetic_ehr,true
+L0374,P0125,2026-01-18T08:59:00+05:30,HDL cholesterol,SYN-HDL,57.0,mg/dL,40.0,100.0,normal,serum,synthetic_ehr,true
+L0375,P0125,2026-01-21T08:00:00+05:30,Triglycerides,SYN-TRIG,113.0,mg/dL,0.0,150.0,normal,serum,synthetic_ehr,true
+L0376,P0126,2026-01-04T08:15:00+05:30,Total cholesterol,SYN-CHOL,167.0,mg/dL,125.0,200.0,normal,serum,synthetic_ehr,true
+L0377,P0126,2026-01-17T08:33:00+05:30,Triglycerides,SYN-TRIG,111.0,mg/dL,0.0,150.0,normal,serum,synthetic_ehr,true
+L0378,P0126,2026-01-18T09:10:00+05:30,Fasting plasma glucose,SYN-FPG,103.0,mg/dL,70.0,99.0,high,plasma,synthetic_ehr,true
+L0379,P0127,2026-01-21T07:51:00+05:30,Total cholesterol,SYN-CHOL,175.0,mg/dL,125.0,200.0,normal,serum,synthetic_ehr,true
+L0380,P0127,2026-01-25T07:25:00+05:30,HDL cholesterol,SYN-HDL,49.0,mg/dL,40.0,100.0,normal,serum,synthetic_ehr,true
+L0381,P0127,2026-01-27T07:48:00+05:30,Fasting plasma glucose,SYN-FPG,89.0,mg/dL,70.0,99.0,normal,plasma,synthetic_ehr,true
+L0382,P0128,2026-01-02T08:17:00+05:30,Serum creatinine,SYN-CREAT,1.15,mg/dL,0.7,1.3,normal,serum,synthetic_ehr,true
+L0383,P0128,2026-01-12T09:07:00+05:30,Fasting plasma glucose,SYN-FPG,89.0,mg/dL,70.0,99.0,normal,plasma,synthetic_ehr,true
+L0384,P0128,2026-01-25T09:18:00+05:30,HbA1c,SYN-HBA1C,5.6,%,4.0,5.6,normal,blood,synthetic_ehr,true
+L0385,P0129,2026-01-03T06:40:00+05:30,Fasting plasma glucose,SYN-FPG,100.0,mg/dL,70.0,99.0,high,plasma,synthetic_ehr,true
+L0386,P0129,2026-01-20T06:57:00+05:30,Triglycerides,SYN-TRIG,91.0,mg/dL,0.0,150.0,normal,serum,synthetic_ehr,true
+L0387,P0129,2026-01-28T09:03:00+05:30,Total cholesterol,SYN-CHOL,177.0,mg/dL,125.0,200.0,normal,serum,synthetic_ehr,true
+L0388,P0130,2026-01-09T07:16:00+05:30,HDL cholesterol,SYN-HDL,65.0,mg/dL,40.0,100.0,normal,serum,synthetic_ehr,true
+L0389,P0130,2026-01-13T06:39:00+05:30,Triglycerides,SYN-TRIG,101.0,mg/dL,0.0,150.0,normal,serum,synthetic_ehr,true
+L0390,P0130,2026-01-14T07:34:00+05:30,LDL cholesterol,SYN-LDL,73.0,mg/dL,0.0,100.0,normal,serum,synthetic_ehr,true
+L0391,P0131,2026-01-07T06:33:00+05:30,Fasting plasma glucose,SYN-FPG,81.0,mg/dL,70.0,99.0,normal,plasma,synthetic_ehr,true
+L0392,P0131,2026-01-15T08:30:00+05:30,HDL cholesterol,SYN-HDL,52.0,mg/dL,40.0,100.0,normal,serum,synthetic_ehr,true
+L0393,P0131,2026-01-23T08:11:00+05:30,Total cholesterol,SYN-CHOL,212.0,mg/dL,125.0,200.0,high,serum,synthetic_ehr,true
+L0394,P0132,2026-01-06T09:27:00+05:30,Serum creatinine,SYN-CREAT,0.45,mg/dL,0.6,1.1,low,serum,synthetic_ehr,true
+L0395,P0132,2026-01-19T06:46:00+05:30,Triglycerides,SYN-TRIG,68.0,mg/dL,0.0,150.0,normal,serum,synthetic_ehr,true
+L0396,P0132,2026-01-19T11:02:00+05:30,HbA1c,SYN-HBA1C,5.7,%,4.0,5.6,high,blood,synthetic_ehr,true
+L0397,P0133,2026-01-03T13:21:00+05:30,HbA1c,SYN-HBA1C,5.3,%,4.0,5.6,normal,blood,synthetic_ehr,true
+L0398,P0133,2026-01-22T07:46:00+05:30,LDL cholesterol,SYN-LDL,74.0,mg/dL,0.0,100.0,normal,serum,synthetic_ehr,true
+L0399,P0133,2026-01-23T09:06:00+05:30,Fasting plasma glucose,SYN-FPG,94.0,mg/dL,70.0,99.0,normal,plasma,synthetic_ehr,true
+L0400,P0134,2026-01-17T07:37:00+05:30,Serum creatinine,SYN-CREAT,0.74,mg/dL,0.6,1.1,normal,serum,synthetic_ehr,true
+L0401,P0134,2026-01-20T08:52:00+05:30,LDL cholesterol,SYN-LDL,153.0,mg/dL,0.0,100.0,high,serum,synthetic_ehr,true
+L0402,P0134,2026-01-28T07:27:00+05:30,Total cholesterol,SYN-CHOL,206.0,mg/dL,125.0,200.0,high,serum,synthetic_ehr,true
+L0403,P0135,2026-01-07T08:36:00+05:30,Fasting plasma glucose,SYN-FPG,92.0,mg/dL,70.0,99.0,normal,plasma,synthetic_ehr,true
+L0404,P0135,2026-01-21T09:10:00+05:30,Total cholesterol,SYN-CHOL,186.0,mg/dL,125.0,200.0,normal,serum,synthetic_ehr,true
+L0405,P0135,2026-01-25T08:47:00+05:30,HDL cholesterol,SYN-HDL,42.0,mg/dL,40.0,100.0,normal,serum,synthetic_ehr,true
+L0406,P0136,2026-01-02T08:04:00+05:30,Fasting plasma glucose,SYN-FPG,96.0,mg/dL,70.0,99.0,normal,plasma,synthetic_ehr,true
+L0407,P0136,2026-01-05T13:06:00+05:30,HbA1c,SYN-HBA1C,5.1,%,4.0,5.6,normal,blood,synthetic_ehr,true
+L0408,P0136,2026-01-20T09:23:00+05:30,LDL cholesterol,SYN-LDL,63.0,mg/dL,0.0,100.0,normal,serum,synthetic_ehr,true
+L0409,P0137,2026-01-22T08:11:00+05:30,Fasting plasma glucose,SYN-FPG,84.0,mg/dL,70.0,99.0,normal,plasma,synthetic_ehr,true
+L0410,P0137,2026-01-28T07:12:00+05:30,Serum creatinine,SYN-CREAT,1.13,mg/dL,0.7,1.3,normal,serum,synthetic_ehr,true
+L0411,P0137,2026-01-30T06:39:00+05:30,Triglycerides,SYN-TRIG,135.0,mg/dL,0.0,150.0,normal,serum,synthetic_ehr,true
+L0412,P0138,2026-01-02T08:47:00+05:30,Serum creatinine,SYN-CREAT,0.85,mg/dL,0.7,1.3,normal,serum,synthetic_ehr,true
+L0413,P0138,2026-01-17T07:36:00+05:30,LDL cholesterol,SYN-LDL,168.0,mg/dL,0.0,100.0,high,serum,synthetic_ehr,true
+L0414,P0138,2026-01-20T07:44:00+05:30,Triglycerides,SYN-TRIG,104.0,mg/dL,0.0,150.0,normal,serum,synthetic_ehr,true
+L0415,P0139,2026-01-10T07:23:00+05:30,Fasting plasma glucose,SYN-FPG,60.0,mg/dL,70.0,99.0,low,plasma,synthetic_ehr,true
+L0416,P0139,2026-01-15T08:40:00+05:30,Total cholesterol,SYN-CHOL,158.0,mg/dL,125.0,200.0,normal,serum,synthetic_ehr,true
+L0417,P0139,2026-01-18T07:43:00+05:30,Serum creatinine,SYN-CREAT,1.97,mg/dL,0.7,1.3,high,serum,synthetic_ehr,true
+L0418,P0140,2026-01-10T08:25:00+05:30,HDL cholesterol,SYN-HDL,48.0,mg/dL,40.0,100.0,normal,serum,synthetic_ehr,true
+L0419,P0140,2026-01-24T06:50:00+05:30,Fasting plasma glucose,SYN-FPG,90.0,mg/dL,70.0,99.0,normal,plasma,synthetic_ehr,true
+L0420,P0140,2026-01-28T07:35:00+05:30,Triglycerides,SYN-TRIG,96.0,mg/dL,0.0,150.0,normal,serum,synthetic_ehr,true
+L0421,P0141,2026-01-12T06:45:00+05:30,Total cholesterol,SYN-CHOL,217.0,mg/dL,125.0,200.0,high,serum,synthetic_ehr,true
+L0422,P0141,2026-01-16T08:17:00+05:30,Serum creatinine,SYN-CREAT,0.76,mg/dL,0.6,1.1,normal,serum,synthetic_ehr,true
+L0423,P0141,2026-01-25T06:35:00+05:30,LDL cholesterol,SYN-LDL,45.0,mg/dL,0.0,100.0,normal,serum,synthetic_ehr,true
+L0424,P0142,2026-01-08T08:31:00+05:30,Triglycerides,SYN-TRIG,106.0,mg/dL,0.0,150.0,normal,serum,synthetic_ehr,true
+L0425,P0142,2026-01-08T08:35:00+05:30,LDL cholesterol,SYN-LDL,74.0,mg/dL,0.0,100.0,normal,serum,synthetic_ehr,true
+L0426,P0142,2026-01-11T08:38:00+05:30,Total cholesterol,SYN-CHOL,222.0,mg/dL,125.0,200.0,high,serum,synthetic_ehr,true
+L0427,P0143,2026-01-04T09:08:00+05:30,Total cholesterol,SYN-CHOL,218.0,mg/dL,125.0,200.0,high,serum,synthetic_ehr,true
+L0428,P0143,2026-01-07T07:25:00+05:30,Serum creatinine,SYN-CREAT,0.72,mg/dL,0.6,1.1,normal,serum,synthetic_ehr,true
+L0429,P0143,2026-01-23T12:23:00+05:30,HbA1c,SYN-HBA1C,4.7,%,4.0,5.6,normal,blood,synthetic_ehr,true
+L0430,P0144,2026-01-01T07:34:00+05:30,Serum creatinine,SYN-CREAT,0.97,mg/dL,0.7,1.3,normal,serum,synthetic_ehr,true
+L0431,P0144,2026-01-09T08:06:00+05:30,LDL cholesterol,SYN-LDL,69.0,mg/dL,0.0,100.0,normal,serum,synthetic_ehr,true
+L0432,P0144,2026-01-14T08:01:00+05:30,Triglycerides,SYN-TRIG,134.0,mg/dL,0.0,150.0,normal,serum,synthetic_ehr,true
+L0433,P0145,2026-01-01T07:58:00+05:30,Fasting plasma glucose,SYN-FPG,99.0,mg/dL,70.0,99.0,normal,plasma,synthetic_ehr,true
+L0434,P0145,2026-01-05T09:02:00+05:30,Serum creatinine,SYN-CREAT,0.66,mg/dL,0.6,1.1,normal,serum,synthetic_ehr,true
+L0435,P0145,2026-01-23T11:06:00+05:30,HbA1c,SYN-HBA1C,5.4,%,4.0,5.6,normal,blood,synthetic_ehr,true
+L0436,P0146,2026-01-13T08:02:00+05:30,Serum creatinine,SYN-CREAT,0.94,mg/dL,0.7,1.3,normal,serum,synthetic_ehr,true
+L0437,P0146,2026-01-15T08:26:00+05:30,Fasting plasma glucose,SYN-FPG,102.0,mg/dL,70.0,99.0,high,plasma,synthetic_ehr,true
+L0438,P0146,2026-01-17T06:42:00+05:30,HDL cholesterol,SYN-HDL,38.0,mg/dL,40.0,100.0,low,serum,synthetic_ehr,true
+L0439,P0147,2026-01-15T08:53:00+05:30,Serum creatinine,SYN-CREAT,1.0,mg/dL,0.7,1.3,normal,serum,synthetic_ehr,true
+L0440,P0147,2026-01-20T09:37:00+05:30,HbA1c,SYN-HBA1C,5.3,%,4.0,5.6,normal,blood,synthetic_ehr,true
+L0441,P0147,2026-01-23T06:35:00+05:30,Fasting plasma glucose,SYN-FPG,78.0,mg/dL,70.0,99.0,normal,plasma,synthetic_ehr,true
+L0442,P0148,2026-01-01T13:01:00+05:30,HbA1c,SYN-HBA1C,5.7,%,4.0,5.6,high,blood,synthetic_ehr,true
+L0443,P0148,2026-01-27T06:44:00+05:30,Serum creatinine,SYN-CREAT,1.04,mg/dL,0.7,1.3,normal,serum,synthetic_ehr,true
+L0444,P0148,2026-01-27T07:21:00+05:30,Triglycerides,SYN-TRIG,123.0,mg/dL,0.0,150.0,normal,serum,synthetic_ehr,true
+L0445,P0149,2026-01-01T13:57:00+05:30,HbA1c,SYN-HBA1C,5.5,%,4.0,5.6,normal,blood,synthetic_ehr,true
+L0446,P0149,2026-01-15T07:51:00+05:30,Fasting plasma glucose,SYN-FPG,83.0,mg/dL,70.0,99.0,normal,plasma,synthetic_ehr,true
+L0447,P0149,2026-01-15T08:41:00+05:30,Total cholesterol,SYN-CHOL,236.0,mg/dL,125.0,200.0,high,serum,synthetic_ehr,true
+L0448,P0150,2026-01-04T08:44:00+05:30,Fasting plasma glucose,SYN-FPG,88.0,mg/dL,70.0,99.0,normal,plasma,synthetic_ehr,true
+L0449,P0150,2026-01-13T06:36:00+05:30,Triglycerides,SYN-TRIG,106.0,mg/dL,0.0,150.0,normal,serum,synthetic_ehr,true
+L0450,P0150,2026-01-16T08:21:00+05:30,Total cholesterol,SYN-CHOL,190.0,mg/dL,125.0,200.0,normal,serum,synthetic_ehr,true

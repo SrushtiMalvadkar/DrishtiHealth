@@ -75,15 +75,13 @@ The demonstration will explain the problem, architecture, datasets, model, worki
 
 ## 9. Architecture Diagram
 
-**Architecture diagram (PDF/PPT):** [Add public link]
+**Architecture diagram (PDF/PPT):** https://drive.google.com/file/d/12pquOa6DD8qG7kpovi8qgJ4wenxcMvKL/view?usp=drive_link
 
-The diagram will show the frontend, backend, synthetic datasets, machine learning model, and prediction workflow.
 
 ## 10. Project Presentation
 
-**Project presentation (PDF/PPT):** [Add public link]
+**Project presentation (PDF/PPT):** https://drive.google.com/file/d/1dqbRJVWgU6O8B3BTWAMk_R39psYoxmfZ/view?usp=drive_link
 
-The presentation will cover the project overview, problem statement, healthcare use case, architecture, technical stack, AI/ML approach, results, prototype demonstration, limitations, and future scope.
 
 ## Limitations
 
